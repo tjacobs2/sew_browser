@@ -1,0 +1,3435 @@
+{ "nodes": [
+  { "data": {
+    "id": "1",
+    "model_id": "0",
+    "pdb_code": ""
+  } },
+  { "data": {
+    "id": "2",
+    "model_id": "53",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1A17_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "3",
+    "model_id": "54",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1A17_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "4",
+    "model_id": "55",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1A17_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "5",
+    "model_id": "56",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1A17_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "6",
+    "model_id": "57",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1A17_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "7",
+    "model_id": "105",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1A59_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "8",
+    "model_id": "106",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1A59_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "9",
+    "model_id": "110",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1A5T_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "10",
+    "model_id": "0",
+    "pdb_code": ""
+  } },
+  { "data": {
+    "id": "11",
+    "model_id": "220",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1AD3_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "12",
+    "model_id": "243",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1AEP_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "13",
+    "model_id": "0",
+    "pdb_code": ""
+  } },
+  { "data": {
+    "id": "14",
+    "model_id": "271",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1AH7_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "15",
+    "model_id": "280",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1AJ8_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "16",
+    "model_id": "285",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1AK0_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "17",
+    "model_id": "286",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1AK0_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "18",
+    "model_id": "294",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1ALU_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "19",
+    "model_id": "295",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1ALU_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "20",
+    "model_id": "355",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1AU1_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "21",
+    "model_id": "356",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1AU1_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "22",
+    "model_id": "374",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1AVO_chain_B.pdb"
+  } },
+  { "data": {
+    "id": "23",
+    "model_id": "375",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1AX8_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "24",
+    "model_id": "376",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1AX8_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "25",
+    "model_id": "439",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1B3U_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "26",
+    "model_id": "440",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1B3U_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "27",
+    "model_id": "441",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1B3U_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "28",
+    "model_id": "442",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1B3U_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "29",
+    "model_id": "0",
+    "pdb_code": ""
+  } },
+  { "data": {
+    "id": "30",
+    "model_id": "455",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1B5L_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "31",
+    "model_id": "456",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1B5L_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "32",
+    "model_id": "0",
+    "pdb_code": ""
+  } },
+  { "data": {
+    "id": "33",
+    "model_id": "569",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1BG1_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "34",
+    "model_id": "570",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1BG1_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "35",
+    "model_id": "584",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1BGC_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "36",
+    "model_id": "0",
+    "pdb_code": ""
+  } },
+  { "data": {
+    "id": "37",
+    "model_id": "0",
+    "pdb_code": ""
+  } },
+  { "data": {
+    "id": "38",
+    "model_id": "705",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1BUC_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "39",
+    "model_id": "706",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1BUC_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "40",
+    "model_id": "708",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1BUC_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "41",
+    "model_id": "709",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1BUC_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "42",
+    "model_id": "727",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1BVP_chain_1.pdb"
+  } },
+  { "data": {
+    "id": "43",
+    "model_id": "728",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1BVP_chain_1.pdb"
+  } },
+  { "data": {
+    "id": "44",
+    "model_id": "757",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1BYG_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "45",
+    "model_id": "758",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1BYG_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "46",
+    "model_id": "799",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1C3C_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "47",
+    "model_id": "800",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1C3C_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "48",
+    "model_id": "864",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1CB8_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "49",
+    "model_id": "865",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1CB8_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "50",
+    "model_id": "866",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1CB8_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "51",
+    "model_id": "867",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1CB8_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "52",
+    "model_id": "959",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1CHU_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "53",
+    "model_id": "976",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1CIY_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "54",
+    "model_id": "977",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1CIY_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "55",
+    "model_id": "978",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1CIY_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "56",
+    "model_id": "979",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1CIY_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "57",
+    "model_id": "1001",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1CLC_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "58",
+    "model_id": "1002",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1CLC_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "59",
+    "model_id": "1003",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1CLC_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "60",
+    "model_id": "1004",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1CLC_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "61",
+    "model_id": "1005",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1CLC_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "62",
+    "model_id": "1020",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1CNT_chain_1.pdb"
+  } },
+  { "data": {
+    "id": "63",
+    "model_id": "0",
+    "pdb_code": ""
+  } },
+  { "data": {
+    "id": "64",
+    "model_id": "0",
+    "pdb_code": ""
+  } },
+  { "data": {
+    "id": "65",
+    "model_id": "1048",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1CPQ_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "66",
+    "model_id": "0",
+    "pdb_code": ""
+  } },
+  { "data": {
+    "id": "67",
+    "model_id": "1099",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1CSH_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "68",
+    "model_id": "0",
+    "pdb_code": ""
+  } },
+  { "data": {
+    "id": "69",
+    "model_id": "1101",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1CSH_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "70",
+    "model_id": "1128",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1CUN_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "71",
+    "model_id": "1129",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1CUN_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "72",
+    "model_id": "0",
+    "pdb_code": ""
+  } },
+  { "data": {
+    "id": "73",
+    "model_id": "1300",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1DBH_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "74",
+    "model_id": "1331",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1DD5_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "75",
+    "model_id": "0",
+    "pdb_code": ""
+  } },
+  { "data": {
+    "id": "76",
+    "model_id": "1429",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1DL2_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "77",
+    "model_id": "1466",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1DOF_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "78",
+    "model_id": "1467",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1DOF_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "79",
+    "model_id": "1469",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1DOW_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "80",
+    "model_id": "1470",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1DOW_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "81",
+    "model_id": "1534",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1DUG_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "82",
+    "model_id": "1535",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1DUG_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "83",
+    "model_id": "0",
+    "pdb_code": ""
+  } },
+  { "data": {
+    "id": "84",
+    "model_id": "1675",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1E6B_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "85",
+    "model_id": "1676",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1E6I_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "86",
+    "model_id": "1721",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1E8Y_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "87",
+    "model_id": "0",
+    "pdb_code": ""
+  } },
+  { "data": {
+    "id": "88",
+    "model_id": "1806",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1EER_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "89",
+    "model_id": "1808",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1EER_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "90",
+    "model_id": "0",
+    "pdb_code": ""
+  } },
+  { "data": {
+    "id": "91",
+    "model_id": "1856",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1EH1_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "92",
+    "model_id": "1868",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1EI7_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "93",
+    "model_id": "1880",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1EJD_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "94",
+    "model_id": "1881",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1EJD_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "95",
+    "model_id": "1882",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1EJD_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "96",
+    "model_id": "0",
+    "pdb_code": ""
+  } },
+  { "data": {
+    "id": "97",
+    "model_id": "1899",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1EK9_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "98",
+    "model_id": "1900",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1EK9_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "99",
+    "model_id": "1901",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1EK9_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "100",
+    "model_id": "1924",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1ELU_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "101",
+    "model_id": "1926",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1ELW_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "102",
+    "model_id": "1927",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1ELW_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "103",
+    "model_id": "1928",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1ELW_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "104",
+    "model_id": "1929",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1ELW_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "105",
+    "model_id": "1930",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1ELW_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "106",
+    "model_id": "2013",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1ETE_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "107",
+    "model_id": "2026",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1EUH_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "108",
+    "model_id": "2029",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1EUM_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "109",
+    "model_id": "2040",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1EVS_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "110",
+    "model_id": "2061",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1EWQ_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "111",
+    "model_id": "2088",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1EYV_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "112",
+    "model_id": "2092",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1EZ3_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "113",
+    "model_id": "2117",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1F1M_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "114",
+    "model_id": "0",
+    "pdb_code": ""
+  } },
+  { "data": {
+    "id": "115",
+    "model_id": "2168",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1F45_chain_B.pdb"
+  } },
+  { "data": {
+    "id": "116",
+    "model_id": "2191",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1F5M_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "117",
+    "model_id": "2197",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1F5N_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "118",
+    "model_id": "2198",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1F5N_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "119",
+    "model_id": "2199",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1F5N_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "120",
+    "model_id": "2208",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1F6F_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "121",
+    "model_id": "2220",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1F7C_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "122",
+    "model_id": "2221",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1F7C_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "123",
+    "model_id": "2226",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1F7U_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "124",
+    "model_id": "2227",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1F7U_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "125",
+    "model_id": "2301",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1FCH_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "126",
+    "model_id": "2302",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1FCH_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "127",
+    "model_id": "2303",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1FCH_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "128",
+    "model_id": "2304",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1FCH_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "129",
+    "model_id": "2305",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1FCH_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "130",
+    "model_id": "2306",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1FCH_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "131",
+    "model_id": "2307",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1FCH_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "132",
+    "model_id": "2308",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1FCH_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "133",
+    "model_id": "2309",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1FCH_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "134",
+    "model_id": "2310",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1FCH_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "135",
+    "model_id": "2364",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1FFY_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "136",
+    "model_id": "2481",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1FOE_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "137",
+    "model_id": "2482",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1FOE_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "138",
+    "model_id": "2483",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1FOE_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "139",
+    "model_id": "2484",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1FOE_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "140",
+    "model_id": "2498",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1FP3_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "141",
+    "model_id": "2499",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1FP3_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "142",
+    "model_id": "2500",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1FP3_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "143",
+    "model_id": "2501",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1FP3_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "144",
+    "model_id": "2502",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1FP3_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "145",
+    "model_id": "2503",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1FP3_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "146",
+    "model_id": "2504",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1FP3_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "147",
+    "model_id": "2505",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1FP3_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "148",
+    "model_id": "2506",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1FP3_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "149",
+    "model_id": "2512",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1FPO_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "150",
+    "model_id": "2513",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1FPO_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "151",
+    "model_id": "2571",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1FVR_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "152",
+    "model_id": "0",
+    "pdb_code": ""
+  } },
+  { "data": {
+    "id": "153",
+    "model_id": "2688",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1G5A_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "154",
+    "model_id": "2689",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1G5A_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "155",
+    "model_id": "2726",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1G73_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "156",
+    "model_id": "2802",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1GAI_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "157",
+    "model_id": "2803",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1GAI_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "158",
+    "model_id": "2877",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1GKM_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "159",
+    "model_id": "2878",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1GKM_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "160",
+    "model_id": "0",
+    "pdb_code": ""
+  } },
+  { "data": {
+    "id": "161",
+    "model_id": "2906",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1GNL_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "162",
+    "model_id": "2907",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1GNL_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "163",
+    "model_id": "0",
+    "pdb_code": ""
+  } },
+  { "data": {
+    "id": "164",
+    "model_id": "0",
+    "pdb_code": ""
+  } },
+  { "data": {
+    "id": "165",
+    "model_id": "2983",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1GQA_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "166",
+    "model_id": "2984",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1GQE_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "167",
+    "model_id": "2989",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1GQI_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "168",
+    "model_id": "3007",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1GS9_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "169",
+    "model_id": "3032",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1GU9_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "170",
+    "model_id": "3033",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1GU9_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "171",
+    "model_id": "3062",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1GVN_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "172",
+    "model_id": "0",
+    "pdb_code": ""
+  } },
+  { "data": {
+    "id": "173",
+    "model_id": "3134",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1GZS_chain_B.pdb"
+  } },
+  { "data": {
+    "id": "174",
+    "model_id": "3144",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1H12_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "175",
+    "model_id": "3145",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1H12_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "176",
+    "model_id": "3146",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1H12_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "177",
+    "model_id": "3147",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1H12_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "178",
+    "model_id": "3156",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1H21_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "179",
+    "model_id": "0",
+    "pdb_code": ""
+  } },
+  { "data": {
+    "id": "180",
+    "model_id": "3214",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1H5W_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "181",
+    "model_id": "3223",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1H6G_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "182",
+    "model_id": "3224",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1H6G_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "183",
+    "model_id": "3225",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1H6G_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "184",
+    "model_id": "3226",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1H6G_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "185",
+    "model_id": "3228",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1H6K_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "186",
+    "model_id": "3229",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1H6K_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "187",
+    "model_id": "0",
+    "pdb_code": ""
+  } },
+  { "data": {
+    "id": "188",
+    "model_id": "0",
+    "pdb_code": ""
+  } },
+  { "data": {
+    "id": "189",
+    "model_id": "0",
+    "pdb_code": ""
+  } },
+  { "data": {
+    "id": "190",
+    "model_id": "3233",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1H6K_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "191",
+    "model_id": "0",
+    "pdb_code": ""
+  } },
+  { "data": {
+    "id": "192",
+    "model_id": "3241",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1H7C_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "193",
+    "model_id": "3280",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1HBK_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "194",
+    "model_id": "3282",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1HBN_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "195",
+    "model_id": "3283",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1HBN_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "196",
+    "model_id": "3284",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1HBN_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "197",
+    "model_id": "0",
+    "pdb_code": ""
+  } },
+  { "data": {
+    "id": "198",
+    "model_id": "3286",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1HBN_chain_B.pdb"
+  } },
+  { "data": {
+    "id": "199",
+    "model_id": "3287",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1HBN_chain_B.pdb"
+  } },
+  { "data": {
+    "id": "200",
+    "model_id": "3327",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1HE1_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "201",
+    "model_id": "3357",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1HH8_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "202",
+    "model_id": "3358",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1HH8_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "203",
+    "model_id": "3359",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1HH8_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "204",
+    "model_id": "3360",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1HH8_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "205",
+    "model_id": "3361",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1HH8_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "206",
+    "model_id": "0",
+    "pdb_code": ""
+  } },
+  { "data": {
+    "id": "207",
+    "model_id": "3434",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1HN0_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "208",
+    "model_id": "3435",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1HN0_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "209",
+    "model_id": "0",
+    "pdb_code": ""
+  } },
+  { "data": {
+    "id": "210",
+    "model_id": "3520",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1HU3_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "211",
+    "model_id": "0",
+    "pdb_code": ""
+  } },
+  { "data": {
+    "id": "212",
+    "model_id": "0",
+    "pdb_code": ""
+  } },
+  { "data": {
+    "id": "213",
+    "model_id": "0",
+    "pdb_code": ""
+  } },
+  { "data": {
+    "id": "214",
+    "model_id": "3524",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1HU3_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "215",
+    "model_id": "3525",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1HUW_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "216",
+    "model_id": "3532",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1HW1_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "217",
+    "model_id": "3556",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1HXI_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "218",
+    "model_id": "3557",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1HXI_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "219",
+    "model_id": "3563",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1HY5_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "220",
+    "model_id": "3585",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1HZ4_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "221",
+    "model_id": "3586",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1HZ4_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "222",
+    "model_id": "3587",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1HZ4_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "223",
+    "model_id": "3588",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1HZ4_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "224",
+    "model_id": "3589",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1HZ4_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "225",
+    "model_id": "3590",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1HZ4_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "226",
+    "model_id": "3591",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1HZ4_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "227",
+    "model_id": "3592",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1HZ4_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "228",
+    "model_id": "3596",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1HZF_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "229",
+    "model_id": "3597",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1HZF_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "230",
+    "model_id": "3598",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1HZF_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "231",
+    "model_id": "3599",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1HZF_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "232",
+    "model_id": "3600",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1HZF_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "233",
+    "model_id": "3601",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1HZF_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "234",
+    "model_id": "3602",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1HZF_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "235",
+    "model_id": "3622",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1I1R_chain_B.pdb"
+  } },
+  { "data": {
+    "id": "236",
+    "model_id": "3656",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1I4D_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "237",
+    "model_id": "3657",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1I4D_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "238",
+    "model_id": "3671",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1I5N_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "239",
+    "model_id": "3672",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1I5N_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "240",
+    "model_id": "3673",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1I5P_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "241",
+    "model_id": "3674",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1I5P_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "242",
+    "model_id": "3675",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1I5P_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "243",
+    "model_id": "3676",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1I5P_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "244",
+    "model_id": "0",
+    "pdb_code": ""
+  } },
+  { "data": {
+    "id": "245",
+    "model_id": "3753",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1IA6_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "246",
+    "model_id": "3754",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1IA6_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "247",
+    "model_id": "3755",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1IA6_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "248",
+    "model_id": "3756",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1IA6_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "249",
+    "model_id": "3757",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1IA6_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "250",
+    "model_id": "3758",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1IA6_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "251",
+    "model_id": "3767",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1IAP_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "252",
+    "model_id": "3768",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1IAP_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "253",
+    "model_id": "3769",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1IAP_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "254",
+    "model_id": "3942",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1IOM_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "255",
+    "model_id": "3943",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1IOM_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "256",
+    "model_id": "3950",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1IQ0_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "257",
+    "model_id": "0",
+    "pdb_code": ""
+  } },
+  { "data": {
+    "id": "258",
+    "model_id": "4101",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1IVH_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "259",
+    "model_id": "4102",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1IVH_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "260",
+    "model_id": "4103",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1IVH_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "261",
+    "model_id": "4143",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1IZM_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "262",
+    "model_id": "4255",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1J4N_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "263",
+    "model_id": "0",
+    "pdb_code": ""
+  } },
+  { "data": {
+    "id": "264",
+    "model_id": "4279",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1J5W_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "265",
+    "model_id": "4284",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1J5X_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "266",
+    "model_id": "4313",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1J77_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "267",
+    "model_id": "4314",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1J77_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "268",
+    "model_id": "4324",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1J8M_chain_F.pdb"
+  } },
+  { "data": {
+    "id": "269",
+    "model_id": "4325",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1J8M_chain_F.pdb"
+  } },
+  { "data": {
+    "id": "270",
+    "model_id": "4334",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1J8U_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "271",
+    "model_id": "4350",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1JAD_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "272",
+    "model_id": "4361",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1JB0_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "273",
+    "model_id": "4362",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1JB0_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "274",
+    "model_id": "4363",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1JB0_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "275",
+    "model_id": "4364",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1JB0_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "276",
+    "model_id": "4365",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1JB0_chain_B.pdb"
+  } },
+  { "data": {
+    "id": "277",
+    "model_id": "4366",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1JB0_chain_B.pdb"
+  } },
+  { "data": {
+    "id": "278",
+    "model_id": "4367",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1JB0_chain_B.pdb"
+  } },
+  { "data": {
+    "id": "279",
+    "model_id": "4368",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1JB0_chain_B.pdb"
+  } },
+  { "data": {
+    "id": "280",
+    "model_id": "4369",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1JB0_chain_L.pdb"
+  } },
+  { "data": {
+    "id": "281",
+    "model_id": "4424",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1JGC_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "282",
+    "model_id": "4454",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1JI6_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "283",
+    "model_id": "4455",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1JI6_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "284",
+    "model_id": "4464",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1JIG_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "285",
+    "model_id": "4493",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1JK0_chain_B.pdb"
+  } },
+  { "data": {
+    "id": "286",
+    "model_id": "4494",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1JK0_chain_B.pdb"
+  } },
+  { "data": {
+    "id": "287",
+    "model_id": "4495",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1JK0_chain_B.pdb"
+  } },
+  { "data": {
+    "id": "288",
+    "model_id": "4496",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1JK0_chain_B.pdb"
+  } },
+  { "data": {
+    "id": "289",
+    "model_id": "4546",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1JMU_chain_B.pdb"
+  } },
+  { "data": {
+    "id": "290",
+    "model_id": "4581",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1JNR_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "291",
+    "model_id": "4582",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1JNR_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "292",
+    "model_id": "4599",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1JOG_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "293",
+    "model_id": "4600",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1JOG_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "294",
+    "model_id": "0",
+    "pdb_code": ""
+  } },
+  { "data": {
+    "id": "295",
+    "model_id": "4632",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1JQ5_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "296",
+    "model_id": "4633",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1JQ5_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "297",
+    "model_id": "4644",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1JQN_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "298",
+    "model_id": "4645",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1JQN_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "299",
+    "model_id": "4646",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1JQN_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "300",
+    "model_id": "4650",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1JQN_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "301",
+    "model_id": "0",
+    "pdb_code": ""
+  } },
+  { "data": {
+    "id": "302",
+    "model_id": "4770",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1K04_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "303",
+    "model_id": "0",
+    "pdb_code": ""
+  } },
+  { "data": {
+    "id": "304",
+    "model_id": "4880",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1K7W_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "305",
+    "model_id": "4881",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1K7W_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "306",
+    "model_id": "4882",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1K7W_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "307",
+    "model_id": "4918",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1K8T_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "308",
+    "model_id": "4919",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1K8T_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "309",
+    "model_id": "4930",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1KA2_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "310",
+    "model_id": "5008",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1KF6_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "311",
+    "model_id": "5011",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1KF6_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "312",
+    "model_id": "5054",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1KI1_chain_B.pdb"
+  } },
+  { "data": {
+    "id": "313",
+    "model_id": "5055",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1KI1_chain_B.pdb"
+  } },
+  { "data": {
+    "id": "314",
+    "model_id": "5094",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1KLX_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "315",
+    "model_id": "5133",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1KNY_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "316",
+    "model_id": "5134",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1KNY_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "317",
+    "model_id": "0",
+    "pdb_code": ""
+  } },
+  { "data": {
+    "id": "318",
+    "model_id": "5157",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1KQ3_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "319",
+    "model_id": "5158",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1KQ3_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "320",
+    "model_id": "5187",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1KS8_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "321",
+    "model_id": "5188",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1KS8_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "322",
+    "model_id": "5189",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1KS8_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "323",
+    "model_id": "5190",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1KS8_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "324",
+    "model_id": "5191",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1KS8_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "325",
+    "model_id": "5192",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1KS8_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "326",
+    "model_id": "5193",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1KS8_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "327",
+    "model_id": "5194",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1KS8_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "328",
+    "model_id": "5195",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1KS8_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "329",
+    "model_id": "5196",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1KS8_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "330",
+    "model_id": "5197",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1KS8_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "331",
+    "model_id": "5248",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1KWF_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "332",
+    "model_id": "5249",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1KWF_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "333",
+    "model_id": "5250",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1KWF_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "334",
+    "model_id": "5251",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1KWF_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "335",
+    "model_id": "0",
+    "pdb_code": ""
+  } },
+  { "data": {
+    "id": "336",
+    "model_id": "0",
+    "pdb_code": ""
+  } },
+  { "data": {
+    "id": "337",
+    "model_id": "5283",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1KZ7_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "338",
+    "model_id": "5284",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1KZ7_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "339",
+    "model_id": "5313",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1L1L_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "340",
+    "model_id": "5334",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1L3P_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "341",
+    "model_id": "5387",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1L8N_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "342",
+    "model_id": "5388",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1L8W_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "343",
+    "model_id": "0",
+    "pdb_code": ""
+  } },
+  { "data": {
+    "id": "344",
+    "model_id": "5424",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1LDF_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "345",
+    "model_id": "5449",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1LF6_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "346",
+    "model_id": "5454",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1LFP_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "347",
+    "model_id": "5459",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1LFW_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "348",
+    "model_id": "0",
+    "pdb_code": ""
+  } },
+  { "data": {
+    "id": "349",
+    "model_id": "5522",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1LKI_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "350",
+    "model_id": "5523",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1LKI_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "351",
+    "model_id": "0",
+    "pdb_code": ""
+  } },
+  { "data": {
+    "id": "352",
+    "model_id": "0",
+    "pdb_code": ""
+  } },
+  { "data": {
+    "id": "353",
+    "model_id": "5625",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1LSH_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "354",
+    "model_id": "5626",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1LSH_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "355",
+    "model_id": "0",
+    "pdb_code": ""
+  } },
+  { "data": {
+    "id": "356",
+    "model_id": "5630",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1LSH_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "357",
+    "model_id": "5662",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1LVF_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "358",
+    "model_id": "0",
+    "pdb_code": ""
+  } },
+  { "data": {
+    "id": "359",
+    "model_id": "5696",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1M0U_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "360",
+    "model_id": "0",
+    "pdb_code": ""
+  } },
+  { "data": {
+    "id": "361",
+    "model_id": "5735",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1M48_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "362",
+    "model_id": "5736",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1M48_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "363",
+    "model_id": "5761",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1M56_chain_C.pdb"
+  } },
+  { "data": {
+    "id": "364",
+    "model_id": "5762",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1M56_chain_C.pdb"
+  } },
+  { "data": {
+    "id": "365",
+    "model_id": "0",
+    "pdb_code": ""
+  } },
+  { "data": {
+    "id": "366",
+    "model_id": "5811",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1MC2_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "367",
+    "model_id": "5854",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1MG7_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "368",
+    "model_id": "5971",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1MOQ_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "369",
+    "model_id": "5973",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1MOQ_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "370",
+    "model_id": "0",
+    "pdb_code": ""
+  } },
+  { "data": {
+    "id": "371",
+    "model_id": "6003",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1MQV_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "372",
+    "model_id": "6038",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1MTY_chain_B.pdb"
+  } },
+  { "data": {
+    "id": "373",
+    "model_id": "6039",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1MTY_chain_B.pdb"
+  } },
+  { "data": {
+    "id": "374",
+    "model_id": "0",
+    "pdb_code": ""
+  } },
+  { "data": {
+    "id": "375",
+    "model_id": "6041",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1MTY_chain_D.pdb"
+  } },
+  { "data": {
+    "id": "376",
+    "model_id": "6042",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1MTY_chain_D.pdb"
+  } },
+  { "data": {
+    "id": "377",
+    "model_id": "6043",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1MTY_chain_D.pdb"
+  } },
+  { "data": {
+    "id": "378",
+    "model_id": "6044",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1MTY_chain_D.pdb"
+  } },
+  { "data": {
+    "id": "379",
+    "model_id": "6045",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1MTY_chain_G.pdb"
+  } },
+  { "data": {
+    "id": "380",
+    "model_id": "6088",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1MW7_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "381",
+    "model_id": "0",
+    "pdb_code": ""
+  } },
+  { "data": {
+    "id": "382",
+    "model_id": "6103",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1MXR_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "383",
+    "model_id": "6104",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1MXR_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "384",
+    "model_id": "6105",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1MXR_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "385",
+    "model_id": "6106",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1MXR_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "386",
+    "model_id": "6107",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1MXR_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "387",
+    "model_id": "6160",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1N1B_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "388",
+    "model_id": "6161",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1N1B_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "389",
+    "model_id": "6162",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1N1B_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "390",
+    "model_id": "6191",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1N35_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "391",
+    "model_id": "0",
+    "pdb_code": ""
+  } },
+  { "data": {
+    "id": "392",
+    "model_id": "6205",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1N4K_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "393",
+    "model_id": "6206",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1N4K_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "394",
+    "model_id": "6207",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1N4Q_chain_B.pdb"
+  } },
+  { "data": {
+    "id": "395",
+    "model_id": "6242",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1N7O_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "396",
+    "model_id": "6243",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1N7O_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "397",
+    "model_id": "6244",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1N7O_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "398",
+    "model_id": "6245",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1N7O_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "399",
+    "model_id": "6246",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1N7O_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "400",
+    "model_id": "6260",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1N81_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "401",
+    "model_id": "6261",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1N81_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "402",
+    "model_id": "6280",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1NA3_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "403",
+    "model_id": "6281",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1NA3_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "404",
+    "model_id": "6282",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1NA3_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "405",
+    "model_id": "6327",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1NC5_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "406",
+    "model_id": "6328",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1NC5_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "407",
+    "model_id": "0",
+    "pdb_code": ""
+  } },
+  { "data": {
+    "id": "408",
+    "model_id": "0",
+    "pdb_code": ""
+  } },
+  { "data": {
+    "id": "409",
+    "model_id": "6396",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1NFV_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "410",
+    "model_id": "6410",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1NH1_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "411",
+    "model_id": "6431",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1NIG_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "412",
+    "model_id": "6528",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1NLX_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "413",
+    "model_id": "0",
+    "pdb_code": ""
+  } },
+  { "data": {
+    "id": "414",
+    "model_id": "6562",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1NOG_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "415",
+    "model_id": "6563",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1NOG_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "416",
+    "model_id": "6603",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1NQ7_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "417",
+    "model_id": "6691",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1NTH_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "418",
+    "model_id": "6696",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1NTY_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "419",
+    "model_id": "6702",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1NU7_chain_D.pdb"
+  } },
+  { "data": {
+    "id": "420",
+    "model_id": "0",
+    "pdb_code": ""
+  } },
+  { "data": {
+    "id": "421",
+    "model_id": "6724",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1NW1_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "422",
+    "model_id": "0",
+    "pdb_code": ""
+  } },
+  { "data": {
+    "id": "423",
+    "model_id": "6737",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1NXC_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "424",
+    "model_id": "6741",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1NXU_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "425",
+    "model_id": "6768",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1NZN_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "426",
+    "model_id": "6769",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1NZN_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "427",
+    "model_id": "6770",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1NZN_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "428",
+    "model_id": "6775",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1O04_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "429",
+    "model_id": "6787",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1O20_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "430",
+    "model_id": "0",
+    "pdb_code": ""
+  } },
+  { "data": {
+    "id": "431",
+    "model_id": "6793",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1O2D_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "432",
+    "model_id": "0",
+    "pdb_code": ""
+  } },
+  { "data": {
+    "id": "433",
+    "model_id": "6795",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1O3U_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "434",
+    "model_id": "6825",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1O5H_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "435",
+    "model_id": "6826",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1O5H_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "436",
+    "model_id": "6903",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1O9I_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "437",
+    "model_id": "6904",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1O9I_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "438",
+    "model_id": "6930",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1OAH_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "439",
+    "model_id": "6932",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1OAO_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "440",
+    "model_id": "6934",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1OAO_chain_C.pdb"
+  } },
+  { "data": {
+    "id": "441",
+    "model_id": "6994",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1OE8_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "442",
+    "model_id": "7225",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1ORJ_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "443",
+    "model_id": "0",
+    "pdb_code": ""
+  } },
+  { "data": {
+    "id": "444",
+    "model_id": "7247",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1OTK_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "445",
+    "model_id": "7248",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1OTK_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "446",
+    "model_id": "7250",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1OUV_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "447",
+    "model_id": "7251",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1OUV_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "448",
+    "model_id": "7252",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1OUV_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "449",
+    "model_id": "7253",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1OUV_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "450",
+    "model_id": "7254",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1OUV_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "451",
+    "model_id": "7255",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1OUV_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "452",
+    "model_id": "7275",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1OXJ_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "453",
+    "model_id": "0",
+    "pdb_code": ""
+  } },
+  { "data": {
+    "id": "454",
+    "model_id": "7306",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1OYZ_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "455",
+    "model_id": "7307",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1OYZ_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "456",
+    "model_id": "7308",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1OYZ_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "457",
+    "model_id": "7309",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1OYZ_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "458",
+    "model_id": "7457",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1PAQ_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "459",
+    "model_id": "7469",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1PBW_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "460",
+    "model_id": "7512",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1PEQ_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "461",
+    "model_id": "7595",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1PJ5_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "462",
+    "model_id": "7654",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1PN0_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "463",
+    "model_id": "7702",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1PQ4_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "464",
+    "model_id": "7708",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1PS1_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "465",
+    "model_id": "7709",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1PS1_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "466",
+    "model_id": "7781",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1PXY_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "467",
+    "model_id": "7821",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1Q0Q_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "468",
+    "model_id": "7822",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1Q0Q_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "469",
+    "model_id": "7823",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1Q0Q_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "470",
+    "model_id": "7824",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1Q0Q_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "471",
+    "model_id": "0",
+    "pdb_code": ""
+  } },
+  { "data": {
+    "id": "472",
+    "model_id": "7914",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1Q5N_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "473",
+    "model_id": "7915",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1Q5N_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "474",
+    "model_id": "7945",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1Q74_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "475",
+    "model_id": "7989",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1QAZ_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "476",
+    "model_id": "7990",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1QAZ_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "477",
+    "model_id": "7991",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1QAZ_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "478",
+    "model_id": "7992",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1QAZ_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "479",
+    "model_id": "7993",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1QAZ_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "480",
+    "model_id": "8094",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1QGI_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "481",
+    "model_id": "8095",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1QGI_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "482",
+    "model_id": "8096",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1QGR_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "483",
+    "model_id": "8097",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1QGR_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "484",
+    "model_id": "8098",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1QGR_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "485",
+    "model_id": "8099",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1QGR_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "486",
+    "model_id": "0",
+    "pdb_code": ""
+  } },
+  { "data": {
+    "id": "487",
+    "model_id": "8101",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1QGR_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "488",
+    "model_id": "8102",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1QGR_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "489",
+    "model_id": "0",
+    "pdb_code": ""
+  } },
+  { "data": {
+    "id": "490",
+    "model_id": "8104",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1QGR_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "491",
+    "model_id": "8105",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1QGR_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "492",
+    "model_id": "8106",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1QGR_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "493",
+    "model_id": "8116",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1QHD_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "494",
+    "model_id": "8136",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1QI9_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "495",
+    "model_id": "8137",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1QI9_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "496",
+    "model_id": "8138",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1QI9_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "497",
+    "model_id": "8152",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1QKR_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "498",
+    "model_id": "8153",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1QKR_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "499",
+    "model_id": "8248",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1QOY_chain_A.pdb"
+  } },
+  { "data": {
+    "id": "500",
+    "model_id": "8249",
+    "pdb_code": "/Users/tjacobs2/PROJECTS/datasets/pisces_pdb/extracted_chains/1QOY_chain_A.pdb"
+  } }
+],
+"edges": [
+  { "data": { "source": "2", "target": "281" } },
+  { "data": { "source": "2", "target": "433" } },
+  { "data": { "source": "2", "target": "447" } },
+  { "data": { "source": "2", "target": "498" } },
+  { "data": { "source": "2", "target": "102" } },
+  { "data": { "source": "3", "target": "201" } },
+  { "data": { "source": "3", "target": "281" } },
+  { "data": { "source": "3", "target": "327" } },
+  { "data": { "source": "3", "target": "362" } },
+  { "data": { "source": "3", "target": "373" } },
+  { "data": { "source": "3", "target": "433" } },
+  { "data": { "source": "3", "target": "446" } },
+  { "data": { "source": "3", "target": "448" } },
+  { "data": { "source": "3", "target": "498" } },
+  { "data": { "source": "4", "target": "327" } },
+  { "data": { "source": "4", "target": "373" } },
+  { "data": { "source": "4", "target": "472" } },
+  { "data": { "source": "4", "target": "108" } },
+  { "data": { "source": "6", "target": "80" } },
+  { "data": { "source": "7", "target": "15" } },
+  { "data": { "source": "9", "target": "30" } },
+  { "data": { "source": "9", "target": "264" } },
+  { "data": { "source": "9", "target": "271" } },
+  { "data": { "source": "9", "target": "284" } },
+  { "data": { "source": "9", "target": "342" } },
+  { "data": { "source": "9", "target": "357" } },
+  { "data": { "source": "9", "target": "498" } },
+  { "data": { "source": "9", "target": "112" } },
+  { "data": { "source": "9", "target": "149" } },
+  { "data": { "source": "9", "target": "150" } },
+  { "data": { "source": "11", "target": "46" } },
+  { "data": { "source": "14", "target": "217" } },
+  { "data": { "source": "14", "target": "236" } },
+  { "data": { "source": "14", "target": "276" } },
+  { "data": { "source": "14", "target": "328" } },
+  { "data": { "source": "14", "target": "433" } },
+  { "data": { "source": "14", "target": "448" } },
+  { "data": { "source": "14", "target": "449" } },
+  { "data": { "source": "14", "target": "450" } },
+  { "data": { "source": "14", "target": "451" } },
+  { "data": { "source": "14", "target": "108" } },
+  { "data": { "source": "15", "target": "7" } },
+  { "data": { "source": "15", "target": "254" } },
+  { "data": { "source": "15", "target": "255" } },
+  { "data": { "source": "18", "target": "23" } },
+  { "data": { "source": "18", "target": "24" } },
+  { "data": { "source": "18", "target": "34" } },
+  { "data": { "source": "18", "target": "312" } },
+  { "data": { "source": "18", "target": "349" } },
+  { "data": { "source": "18", "target": "384" } },
+  { "data": { "source": "18", "target": "442" } },
+  { "data": { "source": "18", "target": "498" } },
+  { "data": { "source": "18", "target": "500" } },
+  { "data": { "source": "18", "target": "73" } },
+  { "data": { "source": "18", "target": "112" } },
+  { "data": { "source": "18", "target": "130" } },
+  { "data": { "source": "18", "target": "149" } },
+  { "data": { "source": "18", "target": "150" } },
+  { "data": { "source": "19", "target": "215" } },
+  { "data": { "source": "19", "target": "62" } },
+  { "data": { "source": "19", "target": "112" } },
+  { "data": { "source": "20", "target": "207" } },
+  { "data": { "source": "20", "target": "236" } },
+  { "data": { "source": "20", "target": "342" } },
+  { "data": { "source": "20", "target": "361" } },
+  { "data": { "source": "20", "target": "410" } },
+  { "data": { "source": "20", "target": "109" } },
+  { "data": { "source": "22", "target": "120" } },
+  { "data": { "source": "23", "target": "18" } },
+  { "data": { "source": "23", "target": "34" } },
+  { "data": { "source": "23", "target": "215" } },
+  { "data": { "source": "23", "target": "308" } },
+  { "data": { "source": "23", "target": "311" } },
+  { "data": { "source": "23", "target": "112" } },
+  { "data": { "source": "23", "target": "120" } },
+  { "data": { "source": "23", "target": "149" } },
+  { "data": { "source": "23", "target": "150" } },
+  { "data": { "source": "24", "target": "18" } },
+  { "data": { "source": "24", "target": "109" } },
+  { "data": { "source": "24", "target": "112" } },
+  { "data": { "source": "30", "target": "9" } },
+  { "data": { "source": "30", "target": "192" } },
+  { "data": { "source": "30", "target": "236" } },
+  { "data": { "source": "30", "target": "239" } },
+  { "data": { "source": "30", "target": "281" } },
+  { "data": { "source": "30", "target": "284" } },
+  { "data": { "source": "30", "target": "338" } },
+  { "data": { "source": "30", "target": "62" } },
+  { "data": { "source": "30", "target": "384" } },
+  { "data": { "source": "30", "target": "414" } },
+  { "data": { "source": "30", "target": "437" } },
+  { "data": { "source": "30", "target": "442" } },
+  { "data": { "source": "30", "target": "500" } },
+  { "data": { "source": "30", "target": "113" } },
+  { "data": { "source": "30", "target": "138" } },
+  { "data": { "source": "30", "target": "139" } },
+  { "data": { "source": "30", "target": "168" } },
+  { "data": { "source": "33", "target": "442" } },
+  { "data": { "source": "34", "target": "18" } },
+  { "data": { "source": "34", "target": "23" } },
+  { "data": { "source": "34", "target": "202" } },
+  { "data": { "source": "34", "target": "215" } },
+  { "data": { "source": "34", "target": "361" } },
+  { "data": { "source": "34", "target": "410" } },
+  { "data": { "source": "34", "target": "435" } },
+  { "data": { "source": "34", "target": "101" } },
+  { "data": { "source": "34", "target": "102" } },
+  { "data": { "source": "35", "target": "349" } },
+  { "data": { "source": "35", "target": "106" } },
+  { "data": { "source": "39", "target": "71" } },
+  { "data": { "source": "39", "target": "112" } },
+  { "data": { "source": "40", "target": "71" } },
+  { "data": { "source": "40", "target": "112" } },
+  { "data": { "source": "41", "target": "291" } },
+  { "data": { "source": "41", "target": "65" } },
+  { "data": { "source": "42", "target": "462" } },
+  { "data": { "source": "44", "target": "151" } },
+  { "data": { "source": "45", "target": "113" } },
+  { "data": { "source": "46", "target": "11" } },
+  { "data": { "source": "46", "target": "192" } },
+  { "data": { "source": "46", "target": "78" } },
+  { "data": { "source": "46", "target": "149" } },
+  { "data": { "source": "47", "target": "70" } },
+  { "data": { "source": "47", "target": "77" } },
+  { "data": { "source": "52", "target": "311" } },
+  { "data": { "source": "58", "target": "323" } },
+  { "data": { "source": "58", "target": "327" } },
+  { "data": { "source": "60", "target": "236" } },
+  { "data": { "source": "60", "target": "327" } },
+  { "data": { "source": "60", "target": "329" } },
+  { "data": { "source": "61", "target": "236" } },
+  { "data": { "source": "61", "target": "323" } },
+  { "data": { "source": "61", "target": "327" } },
+  { "data": { "source": "61", "target": "328" } },
+  { "data": { "source": "62", "target": "30" } },
+  { "data": { "source": "62", "target": "19" } },
+  { "data": { "source": "62", "target": "207" } },
+  { "data": { "source": "62", "target": "215" } },
+  { "data": { "source": "62", "target": "217" } },
+  { "data": { "source": "62", "target": "264" } },
+  { "data": { "source": "62", "target": "284" } },
+  { "data": { "source": "62", "target": "304" } },
+  { "data": { "source": "62", "target": "442" } },
+  { "data": { "source": "65", "target": "41" } },
+  { "data": { "source": "65", "target": "79" } },
+  { "data": { "source": "65", "target": "80" } },
+  { "data": { "source": "65", "target": "97" } },
+  { "data": { "source": "65", "target": "99" } },
+  { "data": { "source": "70", "target": "47" } },
+  { "data": { "source": "70", "target": "158" } },
+  { "data": { "source": "71", "target": "40" } },
+  { "data": { "source": "71", "target": "39" } },
+  { "data": { "source": "71", "target": "464" } },
+  { "data": { "source": "73", "target": "18" } },
+  { "data": { "source": "73", "target": "459" } },
+  { "data": { "source": "73", "target": "149" } },
+  { "data": { "source": "73", "target": "150" } },
+  { "data": { "source": "74", "target": "91" } },
+  { "data": { "source": "76", "target": "77" } },
+  { "data": { "source": "76", "target": "170" } },
+  { "data": { "source": "77", "target": "47" } },
+  { "data": { "source": "77", "target": "76" } },
+  { "data": { "source": "77", "target": "315" } },
+  { "data": { "source": "78", "target": "46" } },
+  { "data": { "source": "79", "target": "65" } },
+  { "data": { "source": "79", "target": "88" } },
+  { "data": { "source": "79", "target": "97" } },
+  { "data": { "source": "79", "target": "98" } },
+  { "data": { "source": "79", "target": "120" } },
+  { "data": { "source": "80", "target": "6" } },
+  { "data": { "source": "80", "target": "65" } },
+  { "data": { "source": "80", "target": "279" } },
+  { "data": { "source": "88", "target": "79" } },
+  { "data": { "source": "91", "target": "74" } },
+  { "data": { "source": "91", "target": "271" } },
+  { "data": { "source": "91", "target": "280" } },
+  { "data": { "source": "91", "target": "111" } },
+  { "data": { "source": "97", "target": "79" } },
+  { "data": { "source": "97", "target": "65" } },
+  { "data": { "source": "97", "target": "192" } },
+  { "data": { "source": "97", "target": "215" } },
+  { "data": { "source": "97", "target": "414" } },
+  { "data": { "source": "97", "target": "434" } },
+  { "data": { "source": "97", "target": "182" } },
+  { "data": { "source": "98", "target": "79" } },
+  { "data": { "source": "98", "target": "499" } },
+  { "data": { "source": "98", "target": "138" } },
+  { "data": { "source": "98", "target": "139" } },
+  { "data": { "source": "98", "target": "180" } },
+  { "data": { "source": "99", "target": "65" } },
+  { "data": { "source": "99", "target": "215" } },
+  { "data": { "source": "100", "target": "255" } },
+  { "data": { "source": "100", "target": "158" } },
+  { "data": { "source": "100", "target": "159" } },
+  { "data": { "source": "101", "target": "34" } },
+  { "data": { "source": "101", "target": "291" } },
+  { "data": { "source": "101", "target": "414" } },
+  { "data": { "source": "101", "target": "435" } },
+  { "data": { "source": "102", "target": "34" } },
+  { "data": { "source": "102", "target": "2" } },
+  { "data": { "source": "102", "target": "218" } },
+  { "data": { "source": "102", "target": "281" } },
+  { "data": { "source": "102", "target": "291" } },
+  { "data": { "source": "102", "target": "329" } },
+  { "data": { "source": "102", "target": "362" } },
+  { "data": { "source": "102", "target": "373" } },
+  { "data": { "source": "102", "target": "404" } },
+  { "data": { "source": "102", "target": "433" } },
+  { "data": { "source": "102", "target": "434" } },
+  { "data": { "source": "102", "target": "435" } },
+  { "data": { "source": "102", "target": "438" } },
+  { "data": { "source": "102", "target": "145" } },
+  { "data": { "source": "103", "target": "281" } },
+  { "data": { "source": "103", "target": "373" } },
+  { "data": { "source": "103", "target": "403" } },
+  { "data": { "source": "103", "target": "472" } },
+  { "data": { "source": "106", "target": "35" } },
+  { "data": { "source": "107", "target": "289" } },
+  { "data": { "source": "107", "target": "158" } },
+  { "data": { "source": "108", "target": "4" } },
+  { "data": { "source": "108", "target": "14" } },
+  { "data": { "source": "108", "target": "192" } },
+  { "data": { "source": "108", "target": "202" } },
+  { "data": { "source": "108", "target": "203" } },
+  { "data": { "source": "108", "target": "252" } },
+  { "data": { "source": "108", "target": "277" } },
+  { "data": { "source": "108", "target": "314" } },
+  { "data": { "source": "108", "target": "433" } },
+  { "data": { "source": "108", "target": "450" } },
+  { "data": { "source": "108", "target": "149" } },
+  { "data": { "source": "108", "target": "150" } },
+  { "data": { "source": "109", "target": "24" } },
+  { "data": { "source": "109", "target": "20" } },
+  { "data": { "source": "109", "target": "499" } },
+  { "data": { "source": "110", "target": "238" } },
+  { "data": { "source": "111", "target": "91" } },
+  { "data": { "source": "112", "target": "40" } },
+  { "data": { "source": "112", "target": "39" } },
+  { "data": { "source": "112", "target": "19" } },
+  { "data": { "source": "112", "target": "9" } },
+  { "data": { "source": "112", "target": "18" } },
+  { "data": { "source": "112", "target": "23" } },
+  { "data": { "source": "112", "target": "24" } },
+  { "data": { "source": "112", "target": "215" } },
+  { "data": { "source": "112", "target": "281" } },
+  { "data": { "source": "112", "target": "291" } },
+  { "data": { "source": "112", "target": "299" } },
+  { "data": { "source": "112", "target": "349" } },
+  { "data": { "source": "112", "target": "362" } },
+  { "data": { "source": "112", "target": "414" } },
+  { "data": { "source": "112", "target": "426" } },
+  { "data": { "source": "113", "target": "30" } },
+  { "data": { "source": "113", "target": "45" } },
+  { "data": { "source": "113", "target": "215" } },
+  { "data": { "source": "113", "target": "414" } },
+  { "data": { "source": "113", "target": "120" } },
+  { "data": { "source": "113", "target": "136" } },
+  { "data": { "source": "113", "target": "182" } },
+  { "data": { "source": "113", "target": "190" } },
+  { "data": { "source": "115", "target": "126" } },
+  { "data": { "source": "115", "target": "127" } },
+  { "data": { "source": "116", "target": "400" } },
+  { "data": { "source": "120", "target": "113" } },
+  { "data": { "source": "120", "target": "23" } },
+  { "data": { "source": "120", "target": "79" } },
+  { "data": { "source": "120", "target": "22" } },
+  { "data": { "source": "120", "target": "284" } },
+  { "data": { "source": "120", "target": "308" } },
+  { "data": { "source": "120", "target": "333" } },
+  { "data": { "source": "120", "target": "414" } },
+  { "data": { "source": "120", "target": "442" } },
+  { "data": { "source": "120", "target": "155" } },
+  { "data": { "source": "121", "target": "155" } },
+  { "data": { "source": "125", "target": "218" } },
+  { "data": { "source": "125", "target": "329" } },
+  { "data": { "source": "126", "target": "115" } },
+  { "data": { "source": "126", "target": "217" } },
+  { "data": { "source": "126", "target": "281" } },
+  { "data": { "source": "126", "target": "328" } },
+  { "data": { "source": "126", "target": "329" } },
+  { "data": { "source": "126", "target": "349" } },
+  { "data": { "source": "127", "target": "115" } },
+  { "data": { "source": "127", "target": "281" } },
+  { "data": { "source": "127", "target": "349" } },
+  { "data": { "source": "127", "target": "414" } },
+  { "data": { "source": "128", "target": "371" } },
+  { "data": { "source": "128", "target": "414" } },
+  { "data": { "source": "130", "target": "18" } },
+  { "data": { "source": "132", "target": "281" } },
+  { "data": { "source": "132", "target": "373" } },
+  { "data": { "source": "132", "target": "403" } },
+  { "data": { "source": "132", "target": "140" } },
+  { "data": { "source": "133", "target": "428" } },
+  { "data": { "source": "133", "target": "450" } },
+  { "data": { "source": "134", "target": "311" } },
+  { "data": { "source": "134", "target": "349" } },
+  { "data": { "source": "134", "target": "428" } },
+  { "data": { "source": "134", "target": "442" } },
+  { "data": { "source": "136", "target": "113" } },
+  { "data": { "source": "136", "target": "337" } },
+  { "data": { "source": "138", "target": "30" } },
+  { "data": { "source": "138", "target": "98" } },
+  { "data": { "source": "139", "target": "30" } },
+  { "data": { "source": "139", "target": "98" } },
+  { "data": { "source": "139", "target": "313" } },
+  { "data": { "source": "140", "target": "132" } },
+  { "data": { "source": "140", "target": "306" } },
+  { "data": { "source": "140", "target": "321" } },
+  { "data": { "source": "140", "target": "357" } },
+  { "data": { "source": "140", "target": "472" } },
+  { "data": { "source": "141", "target": "284" } },
+  { "data": { "source": "145", "target": "102" } },
+  { "data": { "source": "145", "target": "444" } },
+  { "data": { "source": "149", "target": "73" } },
+  { "data": { "source": "149", "target": "9" } },
+  { "data": { "source": "149", "target": "46" } },
+  { "data": { "source": "149", "target": "23" } },
+  { "data": { "source": "149", "target": "18" } },
+  { "data": { "source": "149", "target": "108" } },
+  { "data": { "source": "149", "target": "215" } },
+  { "data": { "source": "149", "target": "292" } },
+  { "data": { "source": "149", "target": "442" } },
+  { "data": { "source": "149", "target": "444" } },
+  { "data": { "source": "149", "target": "499" } },
+  { "data": { "source": "149", "target": "500" } },
+  { "data": { "source": "150", "target": "73" } },
+  { "data": { "source": "150", "target": "9" } },
+  { "data": { "source": "150", "target": "23" } },
+  { "data": { "source": "150", "target": "18" } },
+  { "data": { "source": "150", "target": "108" } },
+  { "data": { "source": "150", "target": "215" } },
+  { "data": { "source": "150", "target": "442" } },
+  { "data": { "source": "150", "target": "444" } },
+  { "data": { "source": "150", "target": "499" } },
+  { "data": { "source": "150", "target": "500" } },
+  { "data": { "source": "151", "target": "44" } },
+  { "data": { "source": "151", "target": "215" } },
+  { "data": { "source": "151", "target": "281" } },
+  { "data": { "source": "153", "target": "409" } },
+  { "data": { "source": "154", "target": "379" } },
+  { "data": { "source": "155", "target": "121" } },
+  { "data": { "source": "155", "target": "120" } },
+  { "data": { "source": "155", "target": "215" } },
+  { "data": { "source": "158", "target": "100" } },
+  { "data": { "source": "158", "target": "107" } },
+  { "data": { "source": "158", "target": "70" } },
+  { "data": { "source": "158", "target": "245" } },
+  { "data": { "source": "158", "target": "246" } },
+  { "data": { "source": "158", "target": "382" } },
+  { "data": { "source": "159", "target": "100" } },
+  { "data": { "source": "159", "target": "382" } },
+  { "data": { "source": "161", "target": "171" } },
+  { "data": { "source": "165", "target": "337" } },
+  { "data": { "source": "168", "target": "30" } },
+  { "data": { "source": "170", "target": "76" } },
+  { "data": { "source": "171", "target": "161" } },
+  { "data": { "source": "171", "target": "215" } },
+  { "data": { "source": "171", "target": "472" } },
+  { "data": { "source": "173", "target": "280" } },
+  { "data": { "source": "174", "target": "334" } },
+  { "data": { "source": "175", "target": "333" } },
+  { "data": { "source": "180", "target": "98" } },
+  { "data": { "source": "180", "target": "216" } },
+  { "data": { "source": "180", "target": "236" } },
+  { "data": { "source": "180", "target": "340" } },
+  { "data": { "source": "180", "target": "412" } },
+  { "data": { "source": "182", "target": "113" } },
+  { "data": { "source": "182", "target": "97" } },
+  { "data": { "source": "182", "target": "192" } },
+  { "data": { "source": "190", "target": "113" } },
+  { "data": { "source": "190", "target": "414" } },
+  { "data": { "source": "192", "target": "46" } },
+  { "data": { "source": "192", "target": "108" } },
+  { "data": { "source": "192", "target": "182" } },
+  { "data": { "source": "192", "target": "97" } },
+  { "data": { "source": "192", "target": "30" } },
+  { "data": { "source": "196", "target": "255" } },
+  { "data": { "source": "201", "target": "3" } },
+  { "data": { "source": "201", "target": "236" } },
+  { "data": { "source": "201", "target": "281" } },
+  { "data": { "source": "201", "target": "373" } },
+  { "data": { "source": "201", "target": "402" } },
+  { "data": { "source": "202", "target": "108" } },
+  { "data": { "source": "202", "target": "34" } },
+  { "data": { "source": "202", "target": "314" } },
+  { "data": { "source": "202", "target": "433" } },
+  { "data": { "source": "202", "target": "447" } },
+  { "data": { "source": "202", "target": "450" } },
+  { "data": { "source": "203", "target": "108" } },
+  { "data": { "source": "203", "target": "235" } },
+  { "data": { "source": "203", "target": "281" } },
+  { "data": { "source": "203", "target": "291" } },
+  { "data": { "source": "203", "target": "314" } },
+  { "data": { "source": "203", "target": "410" } },
+  { "data": { "source": "203", "target": "433" } },
+  { "data": { "source": "203", "target": "450" } },
+  { "data": { "source": "204", "target": "215" } },
+  { "data": { "source": "204", "target": "224" } },
+  { "data": { "source": "204", "target": "235" } },
+  { "data": { "source": "204", "target": "281" } },
+  { "data": { "source": "204", "target": "291" } },
+  { "data": { "source": "205", "target": "435" } },
+  { "data": { "source": "207", "target": "62" } },
+  { "data": { "source": "207", "target": "20" } },
+  { "data": { "source": "207", "target": "357" } },
+  { "data": { "source": "210", "target": "461" } },
+  { "data": { "source": "215", "target": "99" } },
+  { "data": { "source": "215", "target": "171" } },
+  { "data": { "source": "215", "target": "34" } },
+  { "data": { "source": "215", "target": "112" } },
+  { "data": { "source": "215", "target": "23" } },
+  { "data": { "source": "215", "target": "151" } },
+  { "data": { "source": "215", "target": "19" } },
+  { "data": { "source": "215", "target": "204" } },
+  { "data": { "source": "215", "target": "62" } },
+  { "data": { "source": "215", "target": "113" } },
+  { "data": { "source": "215", "target": "155" } },
+  { "data": { "source": "215", "target": "150" } },
+  { "data": { "source": "215", "target": "149" } },
+  { "data": { "source": "215", "target": "97" } },
+  { "data": { "source": "215", "target": "237" } },
+  { "data": { "source": "215", "target": "349" } },
+  { "data": { "source": "215", "target": "357" } },
+  { "data": { "source": "215", "target": "361" } },
+  { "data": { "source": "215", "target": "410" } },
+  { "data": { "source": "215", "target": "442" } },
+  { "data": { "source": "215", "target": "459" } },
+  { "data": { "source": "215", "target": "498" } },
+  { "data": { "source": "216", "target": "180" } },
+  { "data": { "source": "217", "target": "126" } },
+  { "data": { "source": "217", "target": "14" } },
+  { "data": { "source": "217", "target": "62" } },
+  { "data": { "source": "217", "target": "276" } },
+  { "data": { "source": "217", "target": "329" } },
+  { "data": { "source": "217", "target": "438" } },
+  { "data": { "source": "217", "target": "449" } },
+  { "data": { "source": "217", "target": "451" } },
+  { "data": { "source": "218", "target": "102" } },
+  { "data": { "source": "218", "target": "125" } },
+  { "data": { "source": "218", "target": "276" } },
+  { "data": { "source": "218", "target": "281" } },
+  { "data": { "source": "218", "target": "328" } },
+  { "data": { "source": "218", "target": "329" } },
+  { "data": { "source": "218", "target": "449" } },
+  { "data": { "source": "220", "target": "404" } },
+  { "data": { "source": "220", "target": "446" } },
+  { "data": { "source": "224", "target": "204" } },
+  { "data": { "source": "225", "target": "304" } },
+  { "data": { "source": "225", "target": "305" } },
+  { "data": { "source": "226", "target": "304" } },
+  { "data": { "source": "233", "target": "282" } },
+  { "data": { "source": "235", "target": "204" } },
+  { "data": { "source": "235", "target": "203" } },
+  { "data": { "source": "235", "target": "361" } },
+  { "data": { "source": "235", "target": "385" } },
+  { "data": { "source": "235", "target": "449" } },
+  { "data": { "source": "235", "target": "498" } },
+  { "data": { "source": "236", "target": "30" } },
+  { "data": { "source": "236", "target": "61" } },
+  { "data": { "source": "236", "target": "60" } },
+  { "data": { "source": "236", "target": "201" } },
+  { "data": { "source": "236", "target": "14" } },
+  { "data": { "source": "236", "target": "180" } },
+  { "data": { "source": "236", "target": "20" } },
+  { "data": { "source": "236", "target": "327" } },
+  { "data": { "source": "236", "target": "373" } },
+  { "data": { "source": "236", "target": "442" } },
+  { "data": { "source": "236", "target": "449" } },
+  { "data": { "source": "237", "target": "215" } },
+  { "data": { "source": "238", "target": "110" } },
+  { "data": { "source": "238", "target": "299" } },
+  { "data": { "source": "239", "target": "30" } },
+  { "data": { "source": "239", "target": "410" } },
+  { "data": { "source": "239", "target": "498" } },
+  { "data": { "source": "245", "target": "158" } },
+  { "data": { "source": "245", "target": "258" } },
+  { "data": { "source": "245", "target": "259" } },
+  { "data": { "source": "245", "target": "292" } },
+  { "data": { "source": "246", "target": "158" } },
+  { "data": { "source": "246", "target": "327" } },
+  { "data": { "source": "248", "target": "325" } },
+  { "data": { "source": "249", "target": "323" } },
+  { "data": { "source": "249", "target": "327" } },
+  { "data": { "source": "249", "target": "438" } },
+  { "data": { "source": "249", "target": "444" } },
+  { "data": { "source": "250", "target": "434" } },
+  { "data": { "source": "252", "target": "108" } },
+  { "data": { "source": "254", "target": "15" } },
+  { "data": { "source": "255", "target": "15" } },
+  { "data": { "source": "255", "target": "100" } },
+  { "data": { "source": "255", "target": "196" } },
+  { "data": { "source": "258", "target": "245" } },
+  { "data": { "source": "259", "target": "245" } },
+  { "data": { "source": "261", "target": "280" } },
+  { "data": { "source": "264", "target": "9" } },
+  { "data": { "source": "264", "target": "62" } },
+  { "data": { "source": "264", "target": "286" } },
+  { "data": { "source": "264", "target": "287" } },
+  { "data": { "source": "264", "target": "342" } },
+  { "data": { "source": "266", "target": "419" } },
+  { "data": { "source": "271", "target": "91" } },
+  { "data": { "source": "271", "target": "9" } },
+  { "data": { "source": "272", "target": "276" } },
+  { "data": { "source": "272", "target": "277" } },
+  { "data": { "source": "272", "target": "278" } },
+  { "data": { "source": "272", "target": "328" } },
+  { "data": { "source": "272", "target": "329" } },
+  { "data": { "source": "273", "target": "276" } },
+  { "data": { "source": "273", "target": "278" } },
+  { "data": { "source": "274", "target": "276" } },
+  { "data": { "source": "274", "target": "277" } },
+  { "data": { "source": "274", "target": "279" } },
+  { "data": { "source": "275", "target": "278" } },
+  { "data": { "source": "276", "target": "272" } },
+  { "data": { "source": "276", "target": "274" } },
+  { "data": { "source": "276", "target": "273" } },
+  { "data": { "source": "276", "target": "218" } },
+  { "data": { "source": "276", "target": "217" } },
+  { "data": { "source": "276", "target": "14" } },
+  { "data": { "source": "276", "target": "328" } },
+  { "data": { "source": "276", "target": "329" } },
+  { "data": { "source": "276", "target": "402" } },
+  { "data": { "source": "276", "target": "414" } },
+  { "data": { "source": "277", "target": "108" } },
+  { "data": { "source": "277", "target": "274" } },
+  { "data": { "source": "277", "target": "272" } },
+  { "data": { "source": "278", "target": "275" } },
+  { "data": { "source": "278", "target": "273" } },
+  { "data": { "source": "278", "target": "272" } },
+  { "data": { "source": "279", "target": "80" } },
+  { "data": { "source": "279", "target": "274" } },
+  { "data": { "source": "280", "target": "91" } },
+  { "data": { "source": "280", "target": "261" } },
+  { "data": { "source": "280", "target": "173" } },
+  { "data": { "source": "281", "target": "127" } },
+  { "data": { "source": "281", "target": "126" } },
+  { "data": { "source": "281", "target": "112" } },
+  { "data": { "source": "281", "target": "2" } },
+  { "data": { "source": "281", "target": "151" } },
+  { "data": { "source": "281", "target": "203" } },
+  { "data": { "source": "281", "target": "132" } },
+  { "data": { "source": "281", "target": "218" } },
+  { "data": { "source": "281", "target": "103" } },
+  { "data": { "source": "281", "target": "102" } },
+  { "data": { "source": "281", "target": "201" } },
+  { "data": { "source": "281", "target": "3" } },
+  { "data": { "source": "281", "target": "204" } },
+  { "data": { "source": "281", "target": "30" } },
+  { "data": { "source": "281", "target": "284" } },
+  { "data": { "source": "281", "target": "305" } },
+  { "data": { "source": "281", "target": "327" } },
+  { "data": { "source": "281", "target": "329" } },
+  { "data": { "source": "281", "target": "349" } },
+  { "data": { "source": "281", "target": "357" } },
+  { "data": { "source": "281", "target": "361" } },
+  { "data": { "source": "281", "target": "402" } },
+  { "data": { "source": "281", "target": "403" } },
+  { "data": { "source": "281", "target": "426" } },
+  { "data": { "source": "281", "target": "438" } },
+  { "data": { "source": "281", "target": "447" } },
+  { "data": { "source": "281", "target": "449" } },
+  { "data": { "source": "281", "target": "451" } },
+  { "data": { "source": "281", "target": "459" } },
+  { "data": { "source": "281", "target": "498" } },
+  { "data": { "source": "282", "target": "233" } },
+  { "data": { "source": "284", "target": "141" } },
+  { "data": { "source": "284", "target": "62" } },
+  { "data": { "source": "284", "target": "120" } },
+  { "data": { "source": "284", "target": "9" } },
+  { "data": { "source": "284", "target": "281" } },
+  { "data": { "source": "284", "target": "30" } },
+  { "data": { "source": "284", "target": "404" } },
+  { "data": { "source": "284", "target": "499" } },
+  { "data": { "source": "284", "target": "500" } },
+  { "data": { "source": "286", "target": "264" } },
+  { "data": { "source": "287", "target": "264" } },
+  { "data": { "source": "289", "target": "107" } },
+  { "data": { "source": "291", "target": "204" } },
+  { "data": { "source": "291", "target": "203" } },
+  { "data": { "source": "291", "target": "112" } },
+  { "data": { "source": "291", "target": "41" } },
+  { "data": { "source": "291", "target": "102" } },
+  { "data": { "source": "291", "target": "101" } },
+  { "data": { "source": "291", "target": "349" } },
+  { "data": { "source": "291", "target": "403" } },
+  { "data": { "source": "291", "target": "426" } },
+  { "data": { "source": "291", "target": "427" } },
+  { "data": { "source": "291", "target": "437" } },
+  { "data": { "source": "292", "target": "149" } },
+  { "data": { "source": "292", "target": "245" } },
+  { "data": { "source": "299", "target": "112" } },
+  { "data": { "source": "299", "target": "238" } },
+  { "data": { "source": "299", "target": "425" } },
+  { "data": { "source": "299", "target": "426" } },
+  { "data": { "source": "304", "target": "62" } },
+  { "data": { "source": "304", "target": "226" } },
+  { "data": { "source": "304", "target": "225" } },
+  { "data": { "source": "305", "target": "281" } },
+  { "data": { "source": "305", "target": "225" } },
+  { "data": { "source": "306", "target": "140" } },
+  { "data": { "source": "308", "target": "23" } },
+  { "data": { "source": "308", "target": "120" } },
+  { "data": { "source": "308", "target": "313" } },
+  { "data": { "source": "311", "target": "52" } },
+  { "data": { "source": "311", "target": "134" } },
+  { "data": { "source": "311", "target": "23" } },
+  { "data": { "source": "311", "target": "442" } },
+  { "data": { "source": "312", "target": "18" } },
+  { "data": { "source": "313", "target": "139" } },
+  { "data": { "source": "313", "target": "308" } },
+  { "data": { "source": "314", "target": "203" } },
+  { "data": { "source": "314", "target": "202" } },
+  { "data": { "source": "314", "target": "108" } },
+  { "data": { "source": "314", "target": "433" } },
+  { "data": { "source": "315", "target": "77" } },
+  { "data": { "source": "321", "target": "140" } },
+  { "data": { "source": "322", "target": "405" } },
+  { "data": { "source": "323", "target": "61" } },
+  { "data": { "source": "323", "target": "58" } },
+  { "data": { "source": "323", "target": "249" } },
+  { "data": { "source": "325", "target": "248" } },
+  { "data": { "source": "327", "target": "58" } },
+  { "data": { "source": "327", "target": "281" } },
+  { "data": { "source": "327", "target": "236" } },
+  { "data": { "source": "327", "target": "4" } },
+  { "data": { "source": "327", "target": "3" } },
+  { "data": { "source": "327", "target": "246" } },
+  { "data": { "source": "327", "target": "61" } },
+  { "data": { "source": "327", "target": "60" } },
+  { "data": { "source": "327", "target": "249" } },
+  { "data": { "source": "327", "target": "438" } },
+  { "data": { "source": "327", "target": "444" } },
+  { "data": { "source": "328", "target": "276" } },
+  { "data": { "source": "328", "target": "272" } },
+  { "data": { "source": "328", "target": "126" } },
+  { "data": { "source": "328", "target": "61" } },
+  { "data": { "source": "328", "target": "14" } },
+  { "data": { "source": "328", "target": "218" } },
+  { "data": { "source": "328", "target": "403" } },
+  { "data": { "source": "328", "target": "404" } },
+  { "data": { "source": "328", "target": "449" } },
+  { "data": { "source": "328", "target": "451" } },
+  { "data": { "source": "329", "target": "281" } },
+  { "data": { "source": "329", "target": "276" } },
+  { "data": { "source": "329", "target": "272" } },
+  { "data": { "source": "329", "target": "102" } },
+  { "data": { "source": "329", "target": "126" } },
+  { "data": { "source": "329", "target": "125" } },
+  { "data": { "source": "329", "target": "60" } },
+  { "data": { "source": "329", "target": "218" } },
+  { "data": { "source": "329", "target": "217" } },
+  { "data": { "source": "329", "target": "403" } },
+  { "data": { "source": "329", "target": "449" } },
+  { "data": { "source": "329", "target": "451" } },
+  { "data": { "source": "329", "target": "472" } },
+  { "data": { "source": "330", "target": "487" } },
+  { "data": { "source": "333", "target": "175" } },
+  { "data": { "source": "333", "target": "120" } },
+  { "data": { "source": "334", "target": "174" } },
+  { "data": { "source": "334", "target": "499" } },
+  { "data": { "source": "337", "target": "136" } },
+  { "data": { "source": "337", "target": "165" } },
+  { "data": { "source": "338", "target": "30" } },
+  { "data": { "source": "340", "target": "180" } },
+  { "data": { "source": "341", "target": "414" } },
+  { "data": { "source": "342", "target": "9" } },
+  { "data": { "source": "342", "target": "20" } },
+  { "data": { "source": "342", "target": "264" } },
+  { "data": { "source": "342", "target": "357" } },
+  { "data": { "source": "342", "target": "362" } },
+  { "data": { "source": "342", "target": "426" } },
+  { "data": { "source": "342", "target": "498" } },
+  { "data": { "source": "342", "target": "499" } },
+  { "data": { "source": "342", "target": "500" } },
+  { "data": { "source": "349", "target": "291" } },
+  { "data": { "source": "349", "target": "112" } },
+  { "data": { "source": "349", "target": "127" } },
+  { "data": { "source": "349", "target": "126" } },
+  { "data": { "source": "349", "target": "215" } },
+  { "data": { "source": "349", "target": "35" } },
+  { "data": { "source": "349", "target": "281" } },
+  { "data": { "source": "349", "target": "134" } },
+  { "data": { "source": "349", "target": "18" } },
+  { "data": { "source": "357", "target": "140" } },
+  { "data": { "source": "357", "target": "9" } },
+  { "data": { "source": "357", "target": "207" } },
+  { "data": { "source": "357", "target": "281" } },
+  { "data": { "source": "357", "target": "342" } },
+  { "data": { "source": "357", "target": "215" } },
+  { "data": { "source": "357", "target": "362" } },
+  { "data": { "source": "357", "target": "409" } },
+  { "data": { "source": "357", "target": "414" } },
+  { "data": { "source": "361", "target": "281" } },
+  { "data": { "source": "361", "target": "215" } },
+  { "data": { "source": "361", "target": "235" } },
+  { "data": { "source": "361", "target": "20" } },
+  { "data": { "source": "361", "target": "34" } },
+  { "data": { "source": "361", "target": "402" } },
+  { "data": { "source": "361", "target": "403" } },
+  { "data": { "source": "362", "target": "357" } },
+  { "data": { "source": "362", "target": "342" } },
+  { "data": { "source": "362", "target": "102" } },
+  { "data": { "source": "362", "target": "112" } },
+  { "data": { "source": "362", "target": "3" } },
+  { "data": { "source": "362", "target": "425" } },
+  { "data": { "source": "362", "target": "426" } },
+  { "data": { "source": "362", "target": "498" } },
+  { "data": { "source": "362", "target": "499" } },
+  { "data": { "source": "362", "target": "500" } },
+  { "data": { "source": "364", "target": "498" } },
+  { "data": { "source": "366", "target": "419" } },
+  { "data": { "source": "371", "target": "128" } },
+  { "data": { "source": "371", "target": "403" } },
+  { "data": { "source": "373", "target": "201" } },
+  { "data": { "source": "373", "target": "132" } },
+  { "data": { "source": "373", "target": "236" } },
+  { "data": { "source": "373", "target": "103" } },
+  { "data": { "source": "373", "target": "102" } },
+  { "data": { "source": "373", "target": "4" } },
+  { "data": { "source": "373", "target": "3" } },
+  { "data": { "source": "373", "target": "402" } },
+  { "data": { "source": "373", "target": "449" } },
+  { "data": { "source": "379", "target": "154" } },
+  { "data": { "source": "382", "target": "159" } },
+  { "data": { "source": "382", "target": "158" } },
+  { "data": { "source": "384", "target": "30" } },
+  { "data": { "source": "384", "target": "18" } },
+  { "data": { "source": "385", "target": "235" } },
+  { "data": { "source": "400", "target": "116" } },
+  { "data": { "source": "402", "target": "281" } },
+  { "data": { "source": "402", "target": "373" } },
+  { "data": { "source": "402", "target": "276" } },
+  { "data": { "source": "402", "target": "361" } },
+  { "data": { "source": "402", "target": "201" } },
+  { "data": { "source": "402", "target": "425" } },
+  { "data": { "source": "402", "target": "446" } },
+  { "data": { "source": "403", "target": "132" } },
+  { "data": { "source": "403", "target": "329" } },
+  { "data": { "source": "403", "target": "328" } },
+  { "data": { "source": "403", "target": "103" } },
+  { "data": { "source": "403", "target": "281" } },
+  { "data": { "source": "403", "target": "371" } },
+  { "data": { "source": "403", "target": "361" } },
+  { "data": { "source": "403", "target": "291" } },
+  { "data": { "source": "403", "target": "433" } },
+  { "data": { "source": "403", "target": "446" } },
+  { "data": { "source": "403", "target": "451" } },
+  { "data": { "source": "404", "target": "284" } },
+  { "data": { "source": "404", "target": "328" } },
+  { "data": { "source": "404", "target": "102" } },
+  { "data": { "source": "404", "target": "220" } },
+  { "data": { "source": "404", "target": "418" } },
+  { "data": { "source": "404", "target": "433" } },
+  { "data": { "source": "405", "target": "322" } },
+  { "data": { "source": "409", "target": "357" } },
+  { "data": { "source": "409", "target": "153" } },
+  { "data": { "source": "409", "target": "425" } },
+  { "data": { "source": "409", "target": "426" } },
+  { "data": { "source": "409", "target": "498" } },
+  { "data": { "source": "410", "target": "203" } },
+  { "data": { "source": "410", "target": "20" } },
+  { "data": { "source": "410", "target": "215" } },
+  { "data": { "source": "410", "target": "34" } },
+  { "data": { "source": "410", "target": "239" } },
+  { "data": { "source": "411", "target": "500" } },
+  { "data": { "source": "412", "target": "180" } },
+  { "data": { "source": "414", "target": "101" } },
+  { "data": { "source": "414", "target": "276" } },
+  { "data": { "source": "414", "target": "30" } },
+  { "data": { "source": "414", "target": "190" } },
+  { "data": { "source": "414", "target": "341" } },
+  { "data": { "source": "414", "target": "120" } },
+  { "data": { "source": "414", "target": "128" } },
+  { "data": { "source": "414", "target": "127" } },
+  { "data": { "source": "414", "target": "357" } },
+  { "data": { "source": "414", "target": "112" } },
+  { "data": { "source": "414", "target": "113" } },
+  { "data": { "source": "414", "target": "97" } },
+  { "data": { "source": "415", "target": "492" } },
+  { "data": { "source": "418", "target": "404" } },
+  { "data": { "source": "419", "target": "266" } },
+  { "data": { "source": "419", "target": "366" } },
+  { "data": { "source": "425", "target": "362" } },
+  { "data": { "source": "425", "target": "409" } },
+  { "data": { "source": "425", "target": "402" } },
+  { "data": { "source": "425", "target": "299" } },
+  { "data": { "source": "425", "target": "498" } },
+  { "data": { "source": "426", "target": "291" } },
+  { "data": { "source": "426", "target": "281" } },
+  { "data": { "source": "426", "target": "362" } },
+  { "data": { "source": "426", "target": "409" } },
+  { "data": { "source": "426", "target": "342" } },
+  { "data": { "source": "426", "target": "299" } },
+  { "data": { "source": "426", "target": "112" } },
+  { "data": { "source": "426", "target": "437" } },
+  { "data": { "source": "427", "target": "291" } },
+  { "data": { "source": "428", "target": "134" } },
+  { "data": { "source": "428", "target": "133" } },
+  { "data": { "source": "433", "target": "403" } },
+  { "data": { "source": "433", "target": "314" } },
+  { "data": { "source": "433", "target": "2" } },
+  { "data": { "source": "433", "target": "102" } },
+  { "data": { "source": "433", "target": "404" } },
+  { "data": { "source": "433", "target": "203" } },
+  { "data": { "source": "433", "target": "202" } },
+  { "data": { "source": "433", "target": "108" } },
+  { "data": { "source": "433", "target": "3" } },
+  { "data": { "source": "433", "target": "14" } },
+  { "data": { "source": "433", "target": "446" } },
+  { "data": { "source": "433", "target": "447" } },
+  { "data": { "source": "433", "target": "448" } },
+  { "data": { "source": "433", "target": "472" } },
+  { "data": { "source": "434", "target": "102" } },
+  { "data": { "source": "434", "target": "97" } },
+  { "data": { "source": "434", "target": "250" } },
+  { "data": { "source": "435", "target": "205" } },
+  { "data": { "source": "435", "target": "34" } },
+  { "data": { "source": "435", "target": "102" } },
+  { "data": { "source": "435", "target": "101" } },
+  { "data": { "source": "437", "target": "30" } },
+  { "data": { "source": "437", "target": "291" } },
+  { "data": { "source": "437", "target": "426" } },
+  { "data": { "source": "437", "target": "499" } },
+  { "data": { "source": "437", "target": "500" } },
+  { "data": { "source": "438", "target": "249" } },
+  { "data": { "source": "438", "target": "281" } },
+  { "data": { "source": "438", "target": "217" } },
+  { "data": { "source": "438", "target": "102" } },
+  { "data": { "source": "438", "target": "327" } },
+  { "data": { "source": "438", "target": "444" } },
+  { "data": { "source": "438", "target": "446" } },
+  { "data": { "source": "442", "target": "150" } },
+  { "data": { "source": "442", "target": "120" } },
+  { "data": { "source": "442", "target": "149" } },
+  { "data": { "source": "442", "target": "134" } },
+  { "data": { "source": "442", "target": "18" } },
+  { "data": { "source": "442", "target": "311" } },
+  { "data": { "source": "442", "target": "236" } },
+  { "data": { "source": "442", "target": "215" } },
+  { "data": { "source": "442", "target": "33" } },
+  { "data": { "source": "442", "target": "62" } },
+  { "data": { "source": "442", "target": "30" } },
+  { "data": { "source": "444", "target": "150" } },
+  { "data": { "source": "444", "target": "149" } },
+  { "data": { "source": "444", "target": "438" } },
+  { "data": { "source": "444", "target": "145" } },
+  { "data": { "source": "444", "target": "327" } },
+  { "data": { "source": "444", "target": "249" } },
+  { "data": { "source": "444", "target": "449" } },
+  { "data": { "source": "446", "target": "3" } },
+  { "data": { "source": "446", "target": "433" } },
+  { "data": { "source": "446", "target": "220" } },
+  { "data": { "source": "446", "target": "438" } },
+  { "data": { "source": "446", "target": "403" } },
+  { "data": { "source": "446", "target": "402" } },
+  { "data": { "source": "447", "target": "2" } },
+  { "data": { "source": "447", "target": "433" } },
+  { "data": { "source": "447", "target": "281" } },
+  { "data": { "source": "447", "target": "202" } },
+  { "data": { "source": "448", "target": "433" } },
+  { "data": { "source": "448", "target": "14" } },
+  { "data": { "source": "448", "target": "3" } },
+  { "data": { "source": "449", "target": "444" } },
+  { "data": { "source": "449", "target": "373" } },
+  { "data": { "source": "449", "target": "329" } },
+  { "data": { "source": "449", "target": "328" } },
+  { "data": { "source": "449", "target": "281" } },
+  { "data": { "source": "449", "target": "235" } },
+  { "data": { "source": "449", "target": "236" } },
+  { "data": { "source": "449", "target": "218" } },
+  { "data": { "source": "449", "target": "217" } },
+  { "data": { "source": "449", "target": "14" } },
+  { "data": { "source": "450", "target": "14" } },
+  { "data": { "source": "450", "target": "108" } },
+  { "data": { "source": "450", "target": "133" } },
+  { "data": { "source": "450", "target": "203" } },
+  { "data": { "source": "450", "target": "202" } },
+  { "data": { "source": "451", "target": "329" } },
+  { "data": { "source": "451", "target": "328" } },
+  { "data": { "source": "451", "target": "403" } },
+  { "data": { "source": "451", "target": "217" } },
+  { "data": { "source": "451", "target": "281" } },
+  { "data": { "source": "451", "target": "14" } },
+  { "data": { "source": "457", "target": "484" } },
+  { "data": { "source": "459", "target": "215" } },
+  { "data": { "source": "459", "target": "73" } },
+  { "data": { "source": "459", "target": "281" } },
+  { "data": { "source": "461", "target": "210" } },
+  { "data": { "source": "462", "target": "42" } },
+  { "data": { "source": "464", "target": "71" } },
+  { "data": { "source": "472", "target": "140" } },
+  { "data": { "source": "472", "target": "329" } },
+  { "data": { "source": "472", "target": "103" } },
+  { "data": { "source": "472", "target": "433" } },
+  { "data": { "source": "472", "target": "4" } },
+  { "data": { "source": "472", "target": "171" } },
+  { "data": { "source": "484", "target": "457" } },
+  { "data": { "source": "487", "target": "330" } },
+  { "data": { "source": "492", "target": "415" } },
+  { "data": { "source": "498", "target": "364" } },
+  { "data": { "source": "498", "target": "362" } },
+  { "data": { "source": "498", "target": "342" } },
+  { "data": { "source": "498", "target": "2" } },
+  { "data": { "source": "498", "target": "9" } },
+  { "data": { "source": "498", "target": "18" } },
+  { "data": { "source": "498", "target": "235" } },
+  { "data": { "source": "498", "target": "239" } },
+  { "data": { "source": "498", "target": "215" } },
+  { "data": { "source": "498", "target": "3" } },
+  { "data": { "source": "498", "target": "425" } },
+  { "data": { "source": "498", "target": "409" } },
+  { "data": { "source": "498", "target": "281" } },
+  { "data": { "source": "499", "target": "334" } },
+  { "data": { "source": "499", "target": "98" } },
+  { "data": { "source": "499", "target": "437" } },
+  { "data": { "source": "499", "target": "109" } },
+  { "data": { "source": "499", "target": "284" } },
+  { "data": { "source": "499", "target": "150" } },
+  { "data": { "source": "499", "target": "149" } },
+  { "data": { "source": "499", "target": "362" } },
+  { "data": { "source": "499", "target": "342" } },
+  { "data": { "source": "500", "target": "150" } },
+  { "data": { "source": "500", "target": "149" } },
+  { "data": { "source": "500", "target": "30" } },
+  { "data": { "source": "500", "target": "437" } },
+  { "data": { "source": "500", "target": "284" } },
+  { "data": { "source": "500", "target": "362" } },
+  { "data": { "source": "500", "target": "411" } },
+  { "data": { "source": "500", "target": "18" } },
+  { "data": { "source": "500", "target": "342" } }
+]
+}
