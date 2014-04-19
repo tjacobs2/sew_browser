@@ -25,77 +25,92 @@ $.get("http://www.rcsb.org/pdb/files/1yzm.pdb", function(ret) {
   glmol.loadMolecule();
 });
 
-//retrieve the graph data from the server
-var graph_data;
-$.ajax({
-  type: "GET",
-  url: "/graph"
-}).done(function(data) {
-  console.log(data);
-  graph_data = data;
-});
+// var graph_data;
+// $.ajax({
+//   type: "GET",
+//   url: "/graph"
+// }).done(function(data) {
+//   console.log(data);
+//   graph_data = data;
+// });
 
-$('#cy').cytoscape({
+//retrieve the graph data from the server then render the graph
+$.get("/graph", function(ret) {
+  var graph_data = ret;
+  console.log(graph_data);
+  $('#cy').cytoscape({
 
-  layout: {
-    name:'grid'
-  },
+    layout: {
+      name:'grid'
+    },
 
-  style: cytoscape.stylesheet()
+    style: cytoscape.stylesheet()
 
-    .selector('node')
-      .css({
-        'content': 'data(id)',
-        'text-valign': 'center',
-        'color': 'white',
-        'text-outline-width': 2,
-        'text-outline-color': '#888'
-      })
-    .selector('edge')
-      .css({
-        'target-arrow-shape': 'triangle',
-        'curve-style': 'haystack'
-      })
-    .selector(':selected')
-      .css({
-        'background-color': 'black',
-        'line-color': 'black',
-        'target-arrow-color': 'black',
-        'source-arrow-color': 'black'
-      })
-    .selector('.faded')
-      .css({
-        'opacity': 0.25,
-        'text-opacity': 0
-      }),
-  
-  ready: function(){
-    window.cy = this;
+      .selector('node')
+        .css({
+          'content': 'data(id)',
+          'text-valign': 'center',
+          'color': 'white',
+          'text-outline-width': 2,
+          'text-outline-color': '#888'
+        })
+      .selector('edge')
+        .css({
+          'target-arrow-shape': 'triangle',
+          'curve-style': 'haystack'
+        })
+      .selector(':selected')
+        .css({
+          'background-color': 'black',
+          'line-color': 'black',
+          'target-arrow-color': 'black',
+          'source-arrow-color': 'black'
+        })
+      .selector('.faded')
+        .css({
+          'opacity': 0.25,
+          'text-opacity': 0
+        }),
     
-    // giddy up...
-    cy.load(graph_data);
-    cy.boxSelectionEnabled(false);
-    cy.userPanningEnabled(true);
-    cy.userZoomingEnabled(true);
-    
-    cy.elements().unselectify();
-    
-    cy.on('tap', 'node', function(e){
-      var node = e.cyTarget; 
-      var neighborhood = node.neighborhood().add(node);
+    ready: function(){
+      window.cy = this;
       
-      cy.elements().addClass('faded');
-      neighborhood.removeClass('faded');
+      // giddy up...
+      cy.load(graph_data);
+      cy.boxSelectionEnabled(false);
+      cy.userPanningEnabled(true);
+      cy.userZoomingEnabled(true);
+      
+      cy.elements().unselectify();
+      cy.edges().unselectify();
+      
+      cy.on('tap', 'node', function(e){
+        var node = e.cyTarget; 
+        var neighborhood = node.neighborhood().add(node);
+        
+        cy.elements().addClass('faded');
+        neighborhood.removeClass('faded');
 
-      cy.center(node);
-    });
-    
-    cy.on('tap', function(e){
-      if( e.cyTarget === cy ){
-        cy.elements().removeClass('faded');
-      }
-    });
-  }
+        var pdb_path = node.data().pdb_code.split('/');
+        var pdb_code = pdb_path[pdb_path.length - 1].split('_')[0];
+        console.log(pdb_code);
+
+        $.get("http://www.rcsb.org/pdb/files/"+pdb_code+".pdb", function(ret) {
+          $("#glmol_src").val(ret);
+          glmol.loadMolecule();
+        });
+
+        //center a node on click
+        //cy.center(node);
+      });
+      
+      cy.on('tap', function(e){
+        if( e.cyTarget === cy ){
+          cy.elements().removeClass('faded');
+        }
+      });
+    }
+  });
 });
 
 }); // on dom ready
