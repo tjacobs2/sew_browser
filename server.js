@@ -19,7 +19,7 @@ app.get('/graph', function(req, res) {
 });
 
 // application -------------------------------------------------------------
-app.all('*', function(req, res) {
+app.all('/', function(req, res) {
   res.sendfile('./public/index.html');
 });
 

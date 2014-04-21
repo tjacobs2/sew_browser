@@ -20,24 +20,23 @@ glmol.defineRepresentation = function() {
    this.modelGroup.add(asu);
 };
 
-$.get("http://www.rcsb.org/pdb/files/1yzm.pdb", function(ret) {
-  $("#glmol_src").val(ret);
-  glmol.loadMolecule();
+//Testing out GLMol browser
+$.get("http://www.rcsb.org/pdb/files/1yzm.pdb", function(ret1) {
+  $.get("http://www.rcsb.org/pdb/files/1yzm.pdb", function(ret2) {
+    var protein1 = new Protein();
+    var protein2 = new Protein();
+    protein1.init_from_pdb(ret1);
+    protein2.init_from_pdb(ret2);
+    var result = align_and_combine(protein1, 1, protein2, 2);
+    console.log(result);
+    $("#glmol_src").val(result);
+    glmol.loadMolecule();
+  })
 });
-
-// var graph_data;
-// $.ajax({
-//   type: "GET",
-//   url: "/graph"
-// }).done(function(data) {
-//   console.log(data);
-//   graph_data = data;
-// });
 
 //retrieve the graph data from the server then render the graph
 $.get("/graph", function(ret) {
   var graph_data = ret;
-  console.log(graph_data);
   $('#cy').cytoscape({
 
     layout: {
@@ -82,8 +81,20 @@ $.get("/graph", function(ret) {
       cy.userZoomingEnabled(true);
       
       cy.elements().unselectify();
-      cy.edges().unselectify();
+
+      cy.on('tap', 'edge', function(e){
+        var edge = e.cyTarget; 
+        //var node_1 = edge.source();
+        var neighborhood = edge.target().closedNeighborhood().add(edge.source().closedNeighborhood());
+
+        //console.log(node_1);
+        // var neighborhood = node.neighborhood().add(node);
+        
+        //cy.elements().addClass('faded');
+        neighborhood.removeClass('faded');
+      });
       
+      //When you tap an edge, show its neighborhood and load the corresponding pdb
       cy.on('tap', 'node', function(e){
         var node = e.cyTarget; 
         var neighborhood = node.neighborhood().add(node);
@@ -93,10 +104,14 @@ $.get("/graph", function(ret) {
 
         var pdb_path = node.data().pdb_code.split('/');
         var pdb_code = pdb_path[pdb_path.length - 1].split('_')[0];
-        console.log(pdb_code);
+        console.log("Fetching "+pdb_code+" from PDB");
 
         $.get("http://www.rcsb.org/pdb/files/"+pdb_code+".pdb", function(ret) {
-          $("#glmol_src").val(ret);
+          var protein = new Protein();
+          protein.init_from_pdb(ret);
+          var pdb = protein.dump_pdb();
+          $("#glmol_src").val(pdb);
+          //console.log(pdb);
           glmol.loadMolecule();
         });
 
