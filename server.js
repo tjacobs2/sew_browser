@@ -14,8 +14,13 @@ app.use(logger('dev')) //Log every request
 app.get('/graph', function(req, res) {
   var graph_data = fs.readFileSync('sew.json');
   var json_data = JSON.parse(graph_data);
-  // console.log(json_data);
   res.json(json_data);
+});
+
+app.get('/models/:model_id', function(req, res) {
+  var model_id = req.params.model_id;
+  var pdb = fs.readFileSync('pdbs/'+model_id+'.pdb');
+  res.send(pdb);
 });
 
 // application -------------------------------------------------------------

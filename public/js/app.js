@@ -26,8 +26,12 @@ $.get("http://www.rcsb.org/pdb/files/1yzm.pdb", function(ret1) {
     var protein1 = new Protein();
     var protein2 = new Protein();
     protein1.init_from_pdb(ret1);
+    //protein1.translate_coords(10,0,0);
+    protein1.rotate_coords([[-0.75,0,0],[0,-0.75,0],[0,0,-0.75]]);
+    //protein1.rotate_coords([[-1,0,0],[0,-1,0],[0,0,-1]]);
     protein2.init_from_pdb(ret2);
-    var result = align_and_combine(protein1, 1, protein2, 2);
+    var result = align_and_combine(protein1, 456, protein2, 456);
+    //console.log(result);
     $("#glmol_src").val(result);
     glmol.loadMolecule();
   })
@@ -83,13 +87,23 @@ $.get("/graph", function(ret) {
 
       cy.on('tap', 'edge', function(e){
         var edge = e.cyTarget; 
-        //var node_1 = edge.source();
         var neighborhood = edge.target().closedNeighborhood().add(edge.source().closedNeighborhood());
 
-        //console.log(node_1);
-        // var neighborhood = node.neighborhood().add(node);
-        
-        //cy.elements().addClass('faded');
+        $.get("/models/"+edge.source().data().model_id, function(ret1) {
+          $.get("/models/"+edge.target().data().model_id, function(ret2) {
+            var source = new Protein();
+            var target = new Protein();
+            source.init_from_pdb(ret1);
+            target.init_from_pdb(ret2);
+            console.log("Aligning models "+edge.source().data().model_id+" "+edge.data().source_resnum+" "+
+              edge.target().data().model_id+" "+edge.data().target_resnum);
+            var result = align_and_combine(source, edge.data().source_resnum, target, edge.data().target_resnum);
+            //console.log(result);
+            $("#glmol_src").val(result);
+            glmol.loadMolecule();
+          })
+        });
+
         neighborhood.removeClass('faded');
       });
       
@@ -103,14 +117,14 @@ $.get("/graph", function(ret) {
 
         var pdb_path = node.data().pdb_code.split('/');
         var pdb_code = pdb_path[pdb_path.length - 1].split('_')[0];
-        console.log("Fetching "+pdb_code+" from PDB");
+        console.log("Fetching model "+node.data().model_id);
 
-        $.get("http://www.rcsb.org/pdb/files/"+pdb_code+".pdb", function(ret) {
+        $.get("/models/"+node.data().model_id, function(ret) {
           var protein = new Protein();
           protein.init_from_pdb(ret);
           var pdb = protein.dump_pdb();
-          $("#glmol_src").val(pdb);
-          //console.log(pdb);
+          console.log(pdb);
+          $("#glmol_src").val(ret);
           glmol.loadMolecule();
         });
 

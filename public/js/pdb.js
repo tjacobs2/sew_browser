@@ -1,21 +1,59 @@
 var align_and_combine = function(protein1, resnum1, protein2, resnum2) {
+  var Pcx, Pcy, Pcz, Qcx, Qcy, Qcz;
 
-  protein2.change_chain('A', 'B');
+  var stub1 = protein1.get_residue_stub(resnum1);
+  var stub2 = protein2.get_residue_stub(resnum2);
+
   var coords1 = protein1.get_coord_matrix();
   var coords2 = protein2.get_coord_matrix();
 
-  //for testing
-  protein2.translate_coords(10, 0, 0);
+  //Find the center of mass for stub1 and stub2, translate coordinates
+  Pcx = numeric.sum(_.map(stub1, function(coord){ return coord[0]; }))/stub1.length;
+  Pcy = numeric.sum(_.map(stub1, function(coord){ return coord[1]; }))/stub1.length;
+  Pcz = numeric.sum(_.map(stub1, function(coord){ return coord[2]; }))/stub1.length;
+  stub1 = _.map(stub1, function(coord){ return [ coord[0]-Pcx, coord[1]-Pcy, coord[2]-Pcz ] });
 
-  //Superimpose coordinates 
-  var rot_matrix = kabsch(coords1, coords2);
-  var rotated_coords = numeric.dot(coords1,rot_matrix);
-  protein1.update_coords_from_matrix(rotated_coords);
-  //protein2.update_coords_from_matrix(coords2);
+  Qcx = numeric.sum(_.map(stub2, function(coord){ return coord[0]; }))/stub2.length;
+  Qcy = numeric.sum(_.map(stub2, function(coord){ return coord[1]; }))/stub2.length;
+  Qcz = numeric.sum(_.map(stub2, function(coord){ return coord[2]; }))/stub2.length;
+  stub2 = _.map(stub2, function(coord){ return [ coord[0]-Qcx, coord[1]-Qcy, coord[2]-Qcz ] });
+
+  //Find rotation matrix from stub2 -> stub1 
+  //var rot_matrix = kabsch(stub1, stub2);
+
+  var svd_res = numeric.svd(numeric.dot(numeric.transpose(stub2), stub1));
+  var V = svd_res.U;
+  var S = svd_res.S;
+  var Wt = numeric.transpose(svd_res.V);
+  var d = (numeric.det(V) * numeric.det(Wt)) < 0.0
+  console.log(d);
+  if(d) {
+    V = numeric.dot(V, [[1,0,0],[0,1,0],[0,0,-1]])
+    console.log("TWIST");
+  }
+  var U = numeric.dot(V, Wt);
+
+  coords2 = _.map(coords2, function(coord){ return [ coord[0]-Qcx, coord[1]-Qcy, coord[2]-Qcz ] });
+  coords2 = numeric.dot(coords2,U);
+
+  coords1 = _.map(coords1, function(coord){ return [ coord[0]-Pcx, coord[1]-Pcy, coord[2]-Pcz ] });
+
+  //Translate coords to stub COM
+  //coords1 = _.map(coords1, function(coord){ return [ coord[0]-Pcx, coord[1]-Pcy, coord[2]-Pcz ] });
+
+  //Rotate coords1 onto coords2
+  //coords1 = numeric.dot(coords1,rot_matrix);
+
+  //coords2 = _.map(coords2, function(coord){ return [ coord[0]-Qcx, coord[1]-Qcy, coord[2]-Qcz ] });
+  //coords1 = _.map(coords1, function(coord){ return [ coord[0]+Qcx, coord[1]+Qcy, coord[2]+Qcz ] });
+
+  //Reapply coordinates, combine PDBS and return
+  protein2.change_chain('A', 'B');
+  protein1.update_coords_from_matrix(coords1);
+  protein2.update_coords_from_matrix(coords2);
 
   var combined = new Protein();
   combined.chains = protein1.chains.concat(protein2.chains);
-  console.log(combined.dump_pdb());
 
   return combined.dump_pdb();
 }
@@ -24,21 +62,10 @@ var align_and_combine = function(protein1, resnum1, protein2, resnum2) {
 
 ///An implementation of the Kabsch algorithm, described in detail
 ///on wikipedia (http://en.wikipedia.org/wiki/Kabsch_algorithm)
-///this function returns U, the optimal rotation matrix, with P and
-///Q having been translated to their centers of mass
+///this function returns U, the optimal rotation matrix, and assumes
+///P and Q have already been translated to their center of mass
 var kabsch = function(P, Q) {
-  var Pcx, Pcy, Pcz, Qcx, Qcy, Qcz, V, S, W, d, U;
-
-  //Find the center of mass for P and Q, translate coordinates
-  Pcx = numeric.sum(_.map(P, function(coord){ return coord[0]; }))/P.length;
-  Pcy = numeric.sum(_.map(P, function(coord){ return coord[1]; }))/P.length;
-  Pcz = numeric.sum(_.map(P, function(coord){ return coord[2]; }))/P.length;
-  P = _.map(P, function(coord){ return [ coord[0]-Pcx, coord[1]-Pcy, coord[2]-Pcz ] });
-
-  Qcx = numeric.sum(_.map(Q, function(coord){ return coord[0]; }))/Q.length;
-  Qcy = numeric.sum(_.map(Q, function(coord){ return coord[1]; }))/Q.length;
-  Qcz = numeric.sum(_.map(Q, function(coord){ return coord[2]; }))/Q.length;
-  Q = _.map(Q, function(coord){ return [ coord[0]-Qcx, coord[1]-Qcy, coord[2]-Qcz ] });
+  var V, S, W, d, U;
 
   //Find the covariance matrix
   C = numeric.dot(numeric.transpose(P), Q);
@@ -53,6 +80,9 @@ var kabsch = function(P, Q) {
 
   //Ignoring d for now assume right handed coordinate system
   d = (numeric.det(V) * numeric.det(W)) < 0.0
+  if(d) {
+    W = numeric.dot(W, [[1,0,0],[0,1,0],[0,0,-1]])
+  }
 
   //Apply rotation matrix
   U = numeric.dot(V, W);
@@ -61,6 +91,32 @@ var kabsch = function(P, Q) {
 
 var Protein = function() {
   this.chains = [];
+
+  //Get the N,CA,C coords in matrix form for the given residue
+  this.get_residue_stub = function(resnum) {
+    var residues = [];
+    var coords = [];
+    _.each(this.chains, function(chain) {
+      residues.push($.grep(chain.residues, function(residue) {
+        return residue.resnum == resnum;
+      })[0]);
+    });
+    _.each(residues, function(residue) {
+      var n = $.grep(residue.atoms, function(atom) {
+        return atom.type == "N";
+      })[0];
+      var ca = $.grep(residue.atoms, function(atom) {
+        return atom.type == "CA";
+      })[0];
+      var c = $.grep(residue.atoms, function(atom) {
+        return atom.type == "C";
+      })[0];
+      coords.push([n.x, n.y, n.z]);
+      coords.push([ca.x, ca.y, ca.z]);
+      coords.push([c.x, c.y, c.z]);
+    })
+    return coords;
+  }
 
   this.change_chain = function(old_id, new_id) {
      _.each($.grep(this.chains, function(e){ 
@@ -78,6 +134,12 @@ var Protein = function() {
         })
       })
     });
+  }
+
+  this.rotate_coords = function(u) {
+    var coords = this.get_coord_matrix()
+    var rotated_coords = numeric.dot(coords, u);
+    this.update_coords_from_matrix(rotated_coords);
   }
 
   this.update_coords_from_matrix = function(matrix) {
