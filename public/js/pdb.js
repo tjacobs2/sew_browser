@@ -20,14 +20,43 @@ var align_and_combine = function(protein1, resnum1, protein2, resnum2) {
   protein2.transform_coords(coords2);
   protein2.change_chain('A', 'B');
 
+  //Covariance matrix 
+
+  var P = coords1;
+  var Pc = numeric.sum(P)/P.length;
+  console.log(Pc);
+  var Q = coords2;
+  var Qc = numeric.sum(Q)/Q.length;
+  console.log(Qc);
+
+  P = numeric.sub(P,Pc);
+  Q = numeric.sub(Q,Qc);
+
+  var C = numeric.dot(numeric.transpose(P), Q);
+  var svd = numeric.svd(C);
+
+  var V = svd.U;
+  var S = svd.S;
+  var W = svd.V;
+  var d = (numeric.det(V) * numeric.det(W)) < 0.0
+  console.log(d);
+
+  //Get rotation matrix
+  //V,S,W => U,S,V
+  var U = numeric.dot(V, W);
+  console.log(U);
+
+  //Rotate P
+  var rotated_coords = numeric.dot(P,U);
+
+  console.log(coords1[0]);
+  console.log(coords2[0]);
+  console.log(rotated_coords[0]);
+
   var combined = new Protein();
   combined.chains = protein1.chains.concat(protein2.chains);
 
   return combined.dump_pdb();// + 'TER\n' + protein2.dump_pdb();
-
-  //Covariance matrix 
-  //var cov = numeric.svd(numeric.transpose(coords1).dot(coords2));
-  //console.log(cov);
 
 }
 

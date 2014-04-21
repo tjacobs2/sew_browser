@@ -27,8 +27,7 @@ $.get("http://www.rcsb.org/pdb/files/1yzm.pdb", function(ret1) {
     var protein2 = new Protein();
     protein1.init_from_pdb(ret1);
     protein2.init_from_pdb(ret2);
-    var result = align_and_combine(protein1, 1, protein2, 2);
-    console.log(result);
+    var result = align_and_combine(protein1, 1, protein1, 2);
     $("#glmol_src").val(result);
     glmol.loadMolecule();
   })
