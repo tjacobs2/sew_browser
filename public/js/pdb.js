@@ -19,33 +19,14 @@ var align_and_combine = function(protein1, resnum1, protein2, resnum2) {
   stub2 = _.map(stub2, function(coord){ return [ coord[0]-Qcx, coord[1]-Qcy, coord[2]-Qcz ] });
 
   //Find rotation matrix from stub2 -> stub1 
-  //var rot_matrix = kabsch(stub1, stub2);
-
-  var svd_res = numeric.svd(numeric.dot(numeric.transpose(stub2), stub1));
-  var V = svd_res.U;
-  var S = svd_res.S;
-  var Wt = numeric.transpose(svd_res.V);
-  var d = (numeric.det(V) * numeric.det(Wt)) < 0.0
-  console.log(d);
-  if(d) {
-    V = numeric.dot(V, [[1,0,0],[0,1,0],[0,0,-1]])
-    console.log("TWIST");
-  }
-  var U = numeric.dot(V, Wt);
-
-  coords2 = _.map(coords2, function(coord){ return [ coord[0]-Qcx, coord[1]-Qcy, coord[2]-Qcz ] });
-  coords2 = numeric.dot(coords2,U);
-
-  coords1 = _.map(coords1, function(coord){ return [ coord[0]-Pcx, coord[1]-Pcy, coord[2]-Pcz ] });
+  var rot_matrix = kabsch(stub1, stub2);
 
   //Translate coords to stub COM
-  //coords1 = _.map(coords1, function(coord){ return [ coord[0]-Pcx, coord[1]-Pcy, coord[2]-Pcz ] });
+  coords1 = _.map(coords1, function(coord){ return [ coord[0]-Pcx, coord[1]-Pcy, coord[2]-Pcz ] });
+  coords2 = _.map(coords2, function(coord){ return [ coord[0]-Qcx, coord[1]-Qcy, coord[2]-Qcz ] });
 
-  //Rotate coords1 onto coords2
-  //coords1 = numeric.dot(coords1,rot_matrix);
-
-  //coords2 = _.map(coords2, function(coord){ return [ coord[0]-Qcx, coord[1]-Qcy, coord[2]-Qcz ] });
-  //coords1 = _.map(coords1, function(coord){ return [ coord[0]+Qcx, coord[1]+Qcy, coord[2]+Qcz ] });
+  //Rotate
+  coords1 = numeric.dot(coords1,rot_matrix);
 
   //Reapply coordinates, combine PDBS and return
   protein2.change_chain('A', 'B');
@@ -81,7 +62,7 @@ var kabsch = function(P, Q) {
   //Ignoring d for now assume right handed coordinate system
   d = (numeric.det(V) * numeric.det(W)) < 0.0
   if(d) {
-    W = numeric.dot(W, [[1,0,0],[0,1,0],[0,0,-1]])
+    V = numeric.dot(V, [[1,0,0],[0,1,0],[0,0,-1]])
   }
 
   //Apply rotation matrix
